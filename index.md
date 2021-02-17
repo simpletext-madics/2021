@@ -1,4 +1,4 @@
-Atelier SimpleText – GDR IA (2021)
+# Atelier SimpleText – GDR IA (2021) #
 Simplification et Vulgarisation des Textes Scientifiques
 
 Responsables
