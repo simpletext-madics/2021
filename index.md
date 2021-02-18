@@ -10,11 +10,11 @@
 
 **Thématiques**
 
-Traitement automatique de la langue naturelle, Recherche d’information, Journalisme scientifique, Vulgarisation scientifique
+* Traitement automatique de la langue naturelle, Recherche d’information, Journalisme scientifique, Vulgarisation scientifique
 
 **Données concernées**
 
-Articles scientifiques, Résumés des articles scientifiques, Articles Wikipedia, Articles du journalisme scientifique
+* Articles scientifiques, Résumés des articles scientifiques, Articles Wikipedia, Articles du journalisme scientifique
 
 
 **Contexte scientifique**
