@@ -1,6 +1,10 @@
 # Atelier SimpleText – GDR IA (2021) 
 **Simplification et Vulgarisation des Textes Scientifiques**
 
+
+  <img src="https://github.com/simpletext-madics/2021/blob/main/simpletext-logo-blue%20(1).png" style="float:right; margin:0px 15px 15px 0px; cursor:pointer; cursor:hand; border:0" width="100" height="100"/>
+
+
 **Responsables**
 * Liana Ermakova, HCTI, Univ. Bretagne Occidentale
 * Josiane Mothe, IRIT, INS2i
