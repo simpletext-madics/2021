@@ -9,13 +9,16 @@
 * **Correspondant ComDIR :** Frédéric Bimbot
 
 **Thématiques**
+
 Traitement automatique de la langue naturelle, Recherche d’information, Journalisme scientifique, Vulgarisation scientifique
 
 **Données concernées**
+
 Articles scientifiques, Résumés des articles scientifiques, Articles Wikipedia, Articles du journalisme scientifique
 
 
 **Contexte scientifique**
+
 La culture scientifique, y compris les questions liées à la santé, est importante pour que les citoyens puissent prendre de bonnes décisions, évaluer la qualité de l’information, maintenir leur santé physiologique et mentale, et éviter de tomber dans les pièges des charlatans.
 
 Par exemple, les histoires que les individus trouvent crédibles peuvent déterminer leur réponse à la pandémie COVID-19, y compris l’application de la distanciation sociale et l’utilisation de faux traitements médicaux dangereux. Malheureusement, les textes diffusés sur des médias sociaux qui maximisent leur viralité (propagation) en sollicitant nos émotions sont souvent plus directement accessibles que les publications scientifiques qui poursuivent un idéal d’objectivation et de recul.
