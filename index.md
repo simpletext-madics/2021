@@ -1,5 +1,5 @@
 # Atelier SimpleText – GDR IA (2021) 
-**Simplification et Vulgarisation des Textes Scientifiques
+**Simplification et Vulgarisation des Textes Scientifiques**
 
 **Responsables**
 * Liana Ermakova, HCTI, Univ. Bretagne Occidentale
