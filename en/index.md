@@ -1,9 +1,9 @@
 <img src="simpletext-logo-blue%20(1).png" style="float:right; margin:0px 15px 15px 0px; cursor:pointer; cursor:hand; border:0" width="200" height="200"/>
 
+# [Version française](https://simpletext-madics.github.io/2021/)
+
 # SimpleText Workshop – GDR IA (2021)
 **Simplification and Popularization of Scientific Texts**
-
-# [Version française](https://simpletext-madics.github.io/2021/)
 
 **Organizers**
 * Liana Ermakova, HCTI, Univ. Bretagne Occidentale
