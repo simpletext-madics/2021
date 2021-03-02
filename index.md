@@ -1,5 +1,6 @@
 <img src="simpletext-logo-blue%20(1).png" style="float:right; margin:0px 15px 15px 0px; cursor:pointer; cursor:hand; border:0" width="200" height="200"/>
 
+# [English version here](https://simpletext-madics.github.io/2021/EN)
 # Atelier SimpleText – GDR IA (2021) 
 **Simplification et Vulgarisation des Textes Scientifiques**
 
