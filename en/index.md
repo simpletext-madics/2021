@@ -3,7 +3,7 @@
 # SimpleText Workshop – GDR IA (2021)
 **Simplification and Popularization of Scientific Texts**
 
-# [Version française ici](https://simpletext-madics.github.io/2021/)
+# [Version française](https://simpletext-madics.github.io/2021/)
 
 **Organizers**
 * Liana Ermakova, HCTI, Univ. Bretagne Occidentale
