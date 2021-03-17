@@ -5,6 +5,8 @@ Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](htt
 
 Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
 
+Congrès INFORSID (INFormatique des ORganisations et Systèmes d'Information et de Décision) : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
+
 ### Calendrier :
 Soumission des résumés et des articles : **10 avril 2021** (AoE)
 
@@ -88,3 +90,5 @@ Email: [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com)
 Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
 
 Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
+
+Congrès INFORSID : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
