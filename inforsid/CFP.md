@@ -1,6 +1,6 @@
 
 # APPEL À COMMUNICATION / CALL FOR PAPERS
-Site Web de SimpleText : [https://simpletext-madics.github.io/2021/](https://simpletext-madics.github.io/2021/)
+Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
 
 Site de soumission : [https://easychair.org/conferences/submission_new?a=26137747](https://easychair.org/conferences/submission_new?a=26137747) 
 
