@@ -3,7 +3,9 @@
 ## APPEL À COMMUNICATION 
 Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
 
-Site de soumission : [https://easychair.org/conferences/submission_new?a=26100497](https://easychair.org/conferences/submission_new?a=26100497) 
+Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
+
+Congrès INFORSID (INFormatique des ORganisations et Systèmes d'Information et de Décision) : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
 
 ### Calendrier :
 Soumission des résumés et des articles : **10 avril 2021** (AoE)
@@ -32,7 +34,7 @@ L'atelier SimpleText s’inscrit dans le cadre du Groupement de Recherche MaDICS
 * recherche d’information
 
 ### Détails du format des soumissions
-Les soumissions **anonymes**, en *français* ou en *anglais*, au format PDF exclusivement, devront être déposées via  [EasyChair](https://easychair.org/conferences/submission_new?a=26100497)  en respectant le modèle Hermès-Lavoisier :
+Les soumissions **anonymes**, en *français* ou en *anglais*, au format PDF exclusivement, devront être déposées via  [EasyChair](https://easychair.org/conferences/?conf=inforsid2021)  en respectant le modèle Hermès-Lavoisier :
 *	Feuille de style Word : [http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc](http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc)
 *	Feuille de style LaTeX initiale ([http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip](http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip)) et celle pour les actes finaux ([http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls](http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls)). 
 
@@ -88,3 +90,5 @@ Email: [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com)
 Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
 
 Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
+
+Congrès INFORSID : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
