@@ -6,7 +6,7 @@ Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](htt
 Site de soumission : [https://easychair.org/conferences/submission_new?a=26137747](https://easychair.org/conferences/submission_new?a=26137747) 
 
 ### Calendrier :
-Soumission des résumés et des articles : **10 avril 2021** AoE
+Soumission des résumés et des articles : **10 avril 2021** (AoE)
 
 Notification : 16 avril 2021
 
@@ -37,9 +37,9 @@ Les soumissions **anonymes**, en *français* ou en *anglais*, au format PDF excl
 *	Feuille de style LaTeX initiale ([http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip](http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip)) et celle pour les actes finaux ([http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls](http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls)). 
 
 Nous invitons des travaux originaux, des résumés étendus d’articles déjà publiés par ses auteurs, des revues de la littérature, des travaux de positionnement, des travaux en cours, des résultats négatifs et leur analyse. Il est possible de soumettre des articles sous 3 formats : 
-* Articles longs  de 10-12 pages + références bibliographiques
-* Articles courts de 5-6 pages + références bibliographiques 
-* Résumés étendus de 2 pages + références bibliographiques. Les articles issus d’articles déjà publiés peuvent être acceptés dans cette catégorie;  dans ce cas, ils  seront soumis de façon non anonyme.
+* **Articles longs**  de 10-12 pages + références bibliographiques
+* **Articles courts** de 5-6 pages + références bibliographiques 
+* **Résumés étendus** de 2 pages + références bibliographiques. Les articles issus d’articles déjà publiés peuvent être acceptés dans cette catégorie;  dans ce cas, ils  seront soumis de façon non anonyme.
 
 Les papiers acceptés dans les ateliers d'INFORSID seront publiés dans des actes sous l’intitulé **«  Ateliers d'INFORSID - dessinons ensemble le futur des systèmes d'information »**. 
 
@@ -80,7 +80,11 @@ Les papiers acceptés dans les ateliers d'INFORSID seront publiés dans des acte
 
 ### Contacts
 Web site: [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid) 
+
 MaDICS SimpleText page: [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
+
 Email: [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com) 
+
 Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
+
 Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
