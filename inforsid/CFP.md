@@ -12,6 +12,8 @@ Soumission des résumés et des articles : **10 avril 2021** (AoE)
 
 Notification : 16 avril 2021
 
+Camera ready (date finale impérative) : **10 mai 2021** (AoE)
+
 Conférence INFORSID: 1-4 juin 2021
 
 ### Contexte : 
