@@ -8,9 +8,9 @@ Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](http
 Congrès INFORSID (INFormatique des ORganisations et Systèmes d'Information et de Décision) : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
 
 ### Calendrier :
-Soumission des résumés et des articles : <s>**10 avril 2021**</s> **17 avril 2021** (AoE)
+Soumission des résumés et des articles : <s>10 avril 2021</s> **17 avril 2021** (AoE)
 
-Notification : 16 avril 2021
+Notification : 23 avril 2021
 
 Camera ready (date finale impérative) : **10 mai 2021** (AoE)
 
