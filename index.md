@@ -1,5 +1,5 @@
-# Atelier SimpleText – GDR IA (2021) |<img src="simpletext-logo-blue.png" style="float:right; margin:0px 0px 0px 0px; cursor:pointer; cursor:hand; border:0" width="90" height="120"/>
-## Simplification et Vulgarisation des Textes Scientifiques |[EN <img src="en.png" style="float:right; margin:0px 0px 0px 0px; cursor:pointer; cursor:hand; border:0" width="100" height="50"/>](https://simpletext-madics.github.io/2021/en)
+# Atelier SimpleText – GDR IA (2021)|[<img src="en.png" style="float:right; margin:0px 0px 0px 0px; cursor:pointer; cursor:hand; border:0" width="100" height="50"/>](https://simpletext-madics.github.io/2021/en) 
+## Simplification et Vulgarisation des Textes Scientifiques |<img src="simpletext-logo-blue.png" style="float:right; margin:0px 0px 0px 0px; cursor:pointer; cursor:hand; border:0" width="90" height="120"/>
 
 ![Affiche](inforsid/SimpleText_affiche.jpg)
 
