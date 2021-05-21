@@ -1,5 +1,8 @@
 
-# SimpleText@INFORSID
+# CFP SimpleText@INFORSID
+
+[Home](https://simpletext-madics/2021/inforsid) | [Call for Papers](https://simpletext-madics/2021/inforsid/CFP) | [Program](https://simpletext-madics/2021/inforsid/program)
+
 ## APPEL À COMMUNICATION 
 Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
 
