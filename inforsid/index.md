@@ -1,7 +1,7 @@
 
 # SimpleText@INFORSID
 
-[Home](https://simpletext-madics/2021/inforsid) | [Call for Papers](https://simpletext-madics/2021/inforsid/CFP) | [Program](https://simpletext-madics/2021/inforsid/program) 
+[Home](https://simpletext-madics/2021/inforsid) | [Call for Papers](https://simpletext-madics/2021/inforsid/CFP.md) | [Program](https://simpletext-madics/2021/inforsid/program.md) 
 
 
 ![Affiche](SimpleText_affiche.jpg)
