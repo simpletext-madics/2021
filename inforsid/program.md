@@ -1,5 +1,7 @@
 # SimpleText@INFORSID program
 
+[Home](https://simpletext-madics.github.io/2021/inforsid/) | [Call for Papers](https://simpletext-madics.github.io/2021/inforsid/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/program) 
+
 ## 14h00 - 15h40:
 14h00  - 14h40: Rémi Cardon et Natalia Grabar (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - conférence invitée
 
