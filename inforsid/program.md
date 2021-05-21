@@ -3,11 +3,11 @@
 [Home](https://simpletext-madics.github.io/2021/inforsid/) | [Call for Papers](https://simpletext-madics.github.io/2021/inforsid/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/program) 
 
 ## 14h00 - 15h40:
-14h00  - 14h40: **Rémi Cardon** & **Natalia Grabar** (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - conférence invitée
+14h00  - 14h40: **Rémi Cardon** & **Natalia Grabar** (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - invited speaker
 
 _Recherche de phrases parallèles à partir de corpus comparables pour la simplification de textes médicaux en français_
 
-14h40 - 15h10: **Mike Unwalla** (TechScribe, Sheffield, UK) - présentation industrielle
+14h40 - 15h10: **Mike Unwalla** (TechScribe, Sheffield, UK) - industrial talk
 
 _Controlled language for text simplification: Concepts and implementation_
 
@@ -20,7 +20,7 @@ _Pour une démarche de communication multimodale de données scientifiques : de 
 
 _Could automatic text simplification assist correction-revision of scientific texts written by non-native English speakers?_
 
-16h30 - 17h00: **John Rochford** (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - conférence invitée
+16h30 - 17h00: **John Rochford** (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - invited speaker
 
 _Developing Simple Web Text for People with Intellectual Disabilities and to Train Artificial Intelligence_
 
