@@ -6,7 +6,7 @@
 ---
 
 ## 14h00 - 15h40:
-14h00  - 14h40: **Rémi Cardon** & **Natalia Grabar** (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - invited speaker [présentation](presentation/RémiCardon_corpus_inforsid)
+14h00  - 14h40: **Rémi Cardon** & **Natalia Grabar** (UMR 8163 STL – CNRS / Université de Lille, F-59000 Lille, France) - invited speaker [[présentation]](presentation/RémiCardon_corpus_inforsid.pdf)
 
 _Recherche de phrases parallèles à partir de corpus comparables pour la simplification de textes médicaux en français_
 
