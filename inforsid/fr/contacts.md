@@ -7,7 +7,7 @@
 
 ## Contacts
 
-Site internet : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid) 
+Site internet : [https://simpletext-madics.github.io/2021/inforsid/fr](https://simpletext-madics.github.io/2021/inforsid/fr) 
 
 Page MaDICS SimpleText : [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
 
