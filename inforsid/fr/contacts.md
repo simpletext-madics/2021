@@ -11,7 +11,7 @@ Site internet : [https://simpletext-madics.github.io/2021/inforsid](https://simp
 
 Page MaDICS SimpleText : [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
 
-Email : [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com) 
+E-mail : [simpletextworkshop@gmail.com](mailto:simpletextworkshop@gmail.com) 
 
 Twitter : [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
 
