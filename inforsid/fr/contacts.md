@@ -5,7 +5,7 @@
 
 ---
 
-### Contacts
+## Contacts
 
 Site internet : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid) 
 
