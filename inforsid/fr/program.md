@@ -10,7 +10,7 @@
 
 _Recherche de phrases parallèles à partir de corpus comparables pour la simplification de textes médicaux en français_
 
-14h40 - 15h10 : **Mike Unwalla** (TechScribe, Sheffield, UK) - présentation industrielle [[article]]( http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=81) [[présentation]](presentation/MikeUnwalla_CL_text-simplfication.pptx)
+14h40 - 15h10 : **Mike Unwalla** (TechScribe, Sheffield, UK) - présentation industrielle [[article]]( http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=81) [[présentation]](../Presentation/MikeUnwalla_CL_text-simplfication.pdf)
 
 _Controlled language for text simplification: Concepts and implementation_
 
@@ -19,11 +19,11 @@ _Controlled language for text simplification: Concepts and implementation_
 _Pour une démarche de communication multimodale de données scientifiques : de la recherche documentaire à l'infographie via le mind mapping_
 
 ## 16h00 - 17h30 :
-16h00 - 16h30: **Helen Mccombie** (Bureau de Traduction de l'Université, Université de Brest, France) [[article]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=86) [[présentation]](presentation/HelenMCCOMBIE_INFORSID_SimpleText_Talk.pdf)
+16h00 - 16h30: **Helen Mccombie** (Bureau de Traduction de l'Université, Université de Brest, France) [[article]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=86) [[présentation]](../Presentation/HelenMCCOMBIE_INFORSID_SimpleText_Talk.pdf)
 
 _Could automatic text simplification assist correction-revision of scientific texts written by non-native English speakers?_
 
-16h30 - 17h00 : **John Rochford** (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - conférence invitée [[article]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=94) [[présentation]](presentation/JohnRochfordINFORSID2021.pdf)
+16h30 - 17h00 : **John Rochford** (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - conférence invitée [[article]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=94) [[présentation]](../Presentation/JohnRochfordINFORSID2021.pdf)
 
 _Developing Simple Web Text for People with Intellectual Disabilities and to Train Artificial Intelligence_
 
