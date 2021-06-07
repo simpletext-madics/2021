@@ -25,6 +25,6 @@ _La simplification automatique de texte peut-elle faciliter la correction et la 
 
 16h30 - 17h00 : **John Rochford** (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - invited speaker [[présentation]](presentation/JohnRochfordINFORSID2021.pdf)
 
-_Développer du texte web simple pour les personnes ayant une déficience intellectuelle et pour  Developing Simple Web Text for People with Intellectual Disabilities and to Train Artificial Intelligence_
+_Développer du texte web simple pour les personnes ayant une déficience intellectuelle et pour entraîner l'intelligence artificielle_
 
 17h00 - 17h30 : **table ronde**
