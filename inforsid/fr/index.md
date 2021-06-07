@@ -25,17 +25,3 @@ L'atelier SimpleText s’inscrit dans le cadre du Groupement de Recherche MaDICS
 * contextualisation
 * traitement automatique de la langue naturelle
 * recherche d’information
-
-
-### Contacts
-Web site: [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid) 
-
-MaDICS SimpleText page: [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
-
-Email: [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com) 
-
-Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
-
-Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
-
-Congrès INFORSID : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
