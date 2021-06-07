@@ -1,7 +1,8 @@
 
 # SimpleText@INFORSID
 
-[Home](https://simpletext-madics.github.io/2021/inforsid/fr/Accueil) | [Call for Papers](https://simpletext-madics.github.io/2021/inforsid/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/program) 
+[Accueil](https://simpletext-madics.github.io/2021/inforsid/fr/Accueil) | [Appel à papiers](https://simpletext-madics.github.io/2021/inforsid/fr/CFP) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts) 
+ 
 
 
 ![Affiche](SimpleText_affiche.jpg)
