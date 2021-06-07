@@ -1,0 +1,2 @@
+# Publications
+Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Diana Nurbakova, Irina Ovchinnikova, Eric Sanjuan. Text Simplification for Scientific Information Access: CLEF 2021 SimpleText Workshop. 43rd edition of the annual BCS-IRSG European Conference on Information Retrieval : Advances in Information Retrieval (ECIR 2021), Mar 2021, Lucca (virtual), Italy. [PDF](https://hal.archives-ouvertes.fr/hal-03121986/document) [bibtex](bibtex/simpletext-ecir-2021.bib)
