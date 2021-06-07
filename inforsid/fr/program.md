@@ -27,4 +27,4 @@ _Could automatic text simplification assist correction-revision of scientific te
 
 _Developing Simple Web Text for People with Intellectual Disabilities and to Train Artificial Intelligence_
 
-17h00 - 17h30: **round table**
+17h00 - 17h30: **table ronde**
