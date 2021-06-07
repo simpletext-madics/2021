@@ -14,7 +14,7 @@ _Recherche de phrases parallèles à partir de corpus comparables pour la simpli
 
 _Controlled language for text simplification: Concepts and implementation_
 
-15h10 - 15h40: **Sílvia Araújo** (Centre d’Études Humaines - CEHUM, Université du Minho, Braga, Portugal) & **Radia Hannachi** (HCTI EA-4249, Université de Bretagne Sud, Lorient, France)
+15h10 - 15h40: **Sílvia Araújo** (Centre d’Études Humaines - CEHUM, Université du Minho, Braga, Portugal) & **Radia Hannachi** (HCTI EA-4249, Université de Bretagne Sud, Lorient, France) [[présentation]](https://view.genial.ly/60b2bc0485ebfa0d3a8f3c43)
 
 _Pour une démarche de communication multimodale de données scientifiques : de la recherche documentaire à l'infographie via le mind mapping_
 
