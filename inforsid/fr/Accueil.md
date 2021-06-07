@@ -1,7 +1,7 @@
 
 # SimpleText@INFORSID
 
-[Accueil](https://simpletext-madics.github.io/2021/inforsid/fr/Accueil) | [Appel à papiers](https://simpletext-madics.github.io/2021/inforsid/fr/CFP.md) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts) 
+[Accueil](https://simpletext-madics.github.io/2021/inforsid/fr/Accueil) | [Appel à papiers](https://simpletext-madics.github.io/2021/inforsid/fr/CFP) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts) 
  
 
 
