@@ -1,9 +1,12 @@
 
-# CFP SimpleText@INFORSID
+# SimpleText@INFORSID Appel à communication
 
-[Home](https://simpletext-madics.github.io/2021/inforsid/) | [Call for Papers](https://simpletext-madics.github.io/2021/inforsid/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/program)
+[Accueil](https://simpletext-madics.github.io/2021/inforsid/fr) | [Appel à communication](https://simpletext-madics.github.io/2021/inforsid/fr/CFP) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program)  | [Comité de programme](https://simpletext-madics.github.io/2021/inforsid/fr/comite) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts)
+
+---
 
 ## APPEL À COMMUNICATION 
+
 Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
 
 Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
@@ -33,10 +36,10 @@ L'atelier SimpleText s’inscrit dans le cadre du Groupement de Recherche MaDICS
 
 ### Mots clés: 
 * Simplification et vulgarisation scientifique
-* résumé multidocuments
-* contextualisation
-* traitement automatique de la langue naturelle
-* recherche d’information
+* Résumé multidocuments
+* Contextualisation
+* Traitement automatique de la langue naturelle
+* Recherche d’information
 
 ### Détails du format des soumissions
 Les soumissions **anonymes**, en *français* ou en *anglais*, au format PDF exclusivement, devront être déposées via  [EasyChair](https://easychair.org/conferences/?conf=inforsid2021)  en respectant le modèle Hermès-Lavoisier :
@@ -68,18 +71,3 @@ Les papiers acceptés dans les ateliers d'INFORSID seront publiés dans des acte
 * Altération et distorsion de l’information scientifique
 * Analyse de limites des technologies existantes
 * ...
-
-
-### Contacts
-Web site: [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid) 
-
-MaDICS SimpleText page: [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
-
-Email: [simpletextworkshop@gmail.com](simpletextworkshop@gmail.com) 
-
-Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
-
-Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
-
-Congrès INFORSID : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
-
