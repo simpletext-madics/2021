@@ -23,7 +23,7 @@ L'atelier SimpleText s’inscrit dans le cadre du Groupement de Recherche MaDICS
 
 ### Mots clés: 
 * Simplification et vulgarisation scientifique
-* résumé multidocuments
-* contextualisation
-* traitement automatique de la langue naturelle
-* recherche d’information
+* Résumé multidocuments
+* Contextualisation
+* Traitement automatique de la langue naturelle
+* Recherche d’information
