@@ -2,9 +2,13 @@
 # SimpleText@INFORSID
 
 [Accueil](https://simpletext-madics.github.io/2021/inforsid/fr) | [Appel à communication](https://simpletext-madics.github.io/2021/inforsid/fr/CFP) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program)  | [Comité de programme](https://simpletext-madics.github.io/2021/inforsid/fr/comite) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts) 
+
 ---
+
 ![Affiche](SimpleText_affiche.jpg)
+
 ---
+
 ### Contexte : 
 Les systèmes modernes d'accès à l'information promettent de donner aux citoyens un accès direct à des informations clés provenant de sources primaires faisant autorité. La littérature scientifique est concernée mais est en réalité difficilement accessible aux non-experts en raison de la complexité langagière, la structure, longueur, etc des documents scientifiques et du manque d’acculturation scientifique. La teneur du débat scientifique qui procède par confrontation d’une multiplicité d’études avant de parvenir à un consensus est aussi source de complexité.  Les décisions individuelles ou politiques sont potentiellement impactées par une méconnaissance  de l'ensemble des travaux et débats  scientifiques.
 
