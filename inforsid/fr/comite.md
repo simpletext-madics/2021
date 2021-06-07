@@ -1,4 +1,4 @@
-### Le comité de programme 
+## Le comité de programme 
 
 * Liana Ermakova, HCTI - EA 4249, Université de Bretagne Occidentale (Brest, France)
 * Eric San-Juan, Laboratoire d’Informatique d’Avignon,Institut de technologie d' Avignon (Avignon, France)
