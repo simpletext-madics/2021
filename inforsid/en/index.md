@@ -26,4 +26,3 @@ The SimpleText workshop will draw on an interdisciplinary community of researche
 * Contextualization
 * Automatic natural language processing
 * Information retrieval
-* 
