@@ -1,7 +1,7 @@
 
-# SimpleText@INFORSID Appel à communication
+# SimpleText@INFORSID
 
-[Accueil](https://simpletext-madics.github.io/2021/inforsid/fr) | [Appel à communication](https://simpletext-madics.github.io/2021/inforsid/fr/CFP) | [Programme](https://simpletext-madics.github.io/2021/inforsid/fr/program)  | [Comité de programme](https://simpletext-madics.github.io/2021/inforsid/fr/comite) | [Contacts](https://simpletext-madics.github.io/2021/inforsid/fr/contacts)
+[Home](https://simpletext-madics.github.io/2021/inforsid/en) | [Call for papers](https://simpletext-madics.github.io/2021/inforsid/en/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/en/program)  | [Program committee](https://simpletext-madics.github.io/2021/inforsid/en/comite) | [Contact](https://simpletext-madics.github.io/2021/inforsid/en/contact) 
 
 ---
 
