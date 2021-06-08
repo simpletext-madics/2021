@@ -20,7 +20,7 @@ Notification : 16 avril 2021
 
 Camera ready (date finale impérative) : **10 mai 2021** (AoE)
 
-Conférence INFORSID: 1-4 juin 2021
+Conférence INFORSID : 1-4 juin 2021
 
 ### Contexte : 
 Les systèmes modernes d'accès à l'information promettent de donner aux citoyens un accès direct à des informations clés provenant de sources primaires faisant autorité. La littérature scientifique est concernée mais est en réalité difficilement accessible aux non-experts en raison de la complexité langagière, la structure, longueur, etc des documents scientifiques et du manque d’acculturation scientifique. La teneur du débat scientifique qui procède par confrontation d’une multiplicité d’études avant de parvenir à un consensus est aussi source de complexité.  Les décisions individuelles ou politiques sont potentiellement impactées par une méconnaissance  de l'ensemble des travaux et débats  scientifiques.
