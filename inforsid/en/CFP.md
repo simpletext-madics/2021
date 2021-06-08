@@ -40,7 +40,7 @@ The SimpleText workshop will draw on an interdisciplinary community of researche
 * Automatic natural language processing
 * Information retrieval
 
-### Details of the submission format
+### Details of the submission format:
 **Anonymous** submissions, in *French* or *English*, in PDF format only, should be submitted via [EasyChair](https://easychair.org/conferences/?conf=inforsid2021) following the Hermès-Lavoisier template:
 *	Word style sheet: [http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc](http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc)
 * Initial LaTeX style sheet ([http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip](http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip)) and for the final acts ([http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls](http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls)). 
