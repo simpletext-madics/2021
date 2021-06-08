@@ -7,7 +7,7 @@
 
 ## Call for papers
 
-SimpleText website: [https://simpletext-madics.github.io/2021/inforsid/en](https://simpletext-madics.github.io/2021/inforsid/en)
+SimpleText website: [https://simpletext-madics.github.io/2021/inforsid/en/](https://simpletext-madics.github.io/2021/inforsid/en)
 
 Submission website: [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
 
