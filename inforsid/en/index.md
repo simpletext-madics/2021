@@ -16,7 +16,7 @@ This reading difficulty also exists when scientists are interested in scientific
 
 The aim of text simplification is to reduce these obstacles.
 
-L'atelier SimpleText abordera les opportunités et les défis des approches de simplification de textes scientifiques pour améliorer l'accès à l'information scientifique et l’acculturation scientifique. 
+The SimpleText workshop will address the opportunities and challenges of scientific text simplification approaches to improve access to scientific information and scientific acculturation.
 
 The SimpleText workshop will draw on an interdisciplinary community of researchers in automatic language processing, information retrieval, linguistics, sociology, science journalism, and popular science working together to address one of today's greatest challenges. The SimpleText workshop is part of the MaDICS research group ([Masses de Données, Informations et Connaissances en Sciences](https://www.madics.fr/ateliers/simpletext/)).
 
