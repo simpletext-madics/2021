@@ -1,5 +1,5 @@
 
-# SimpleText@INFORSID
+# SimpleText@INFORSID CFP
 
 [Home](https://simpletext-madics.github.io/2021/inforsid/en) | [Call for papers](https://simpletext-madics.github.io/2021/inforsid/en/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/en/program)  | [Program committee](https://simpletext-madics.github.io/2021/inforsid/en/comite) | [Contact](https://simpletext-madics.github.io/2021/inforsid/en/contact) 
 
