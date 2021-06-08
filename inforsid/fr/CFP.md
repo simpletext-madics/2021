@@ -41,7 +41,7 @@ L'atelier SimpleText s’inscrit dans le cadre du Groupement de Recherche MaDICS
 * Traitement automatique de la langue naturelle
 * Recherche d’information
 
-### Détails du format des soumissions
+### Détails du format des soumissions :
 Les soumissions **anonymes**, en *français* ou en *anglais*, au format PDF exclusivement, devront être déposées via  [EasyChair](https://easychair.org/conferences/?conf=inforsid2021)  en respectant le modèle Hermès-Lavoisier :
 *	Feuille de style Word : [http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc](http://inforsid.fr/Paris2019/docs/feuilledeStyle_ARL.doc)
 *	Feuille de style LaTeX initiale ([http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip](http://inforsid.fr/Paris2019/docs/Hermes-Journal_V4_2014.zip)) et celle pour les actes finaux ([http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls](http://inforsid.fr/Paris2019/docs/nn_hermes-journal.cls)). 
