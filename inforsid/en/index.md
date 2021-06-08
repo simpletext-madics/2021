@@ -5,7 +5,7 @@
 
 ---
 
-![Affiche](SimpleText_affiche.jpg)
+![Affiche](../SimpleText_affiche.jpg)
 
 ---
 
