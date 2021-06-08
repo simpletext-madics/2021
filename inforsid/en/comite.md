@@ -1,7 +1,7 @@
 
 # SimpleText@INFORSID Program committee
 
-[Home](https://simpletext-madics.github.io/2021/inforsid/en) | [Call for papers](https://simpletext-madics.github.io/2021/inforsid/en/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/en/program) | [Program committee](https://simpletext-madics.github.io/2021/inforsid/en/comite) | [Contact](https://simpletext-madics.github.io/2021/inforsid/en/contact) | [<img src="../FR.png" width="30">](https://simpletext-madics.github.io/2021/inforsid/fr)
+[Home](https://simpletext-madics.github.io/2021/inforsid/en) | [Call for papers](https://simpletext-madics.github.io/2021/inforsid/en/CFP) | [Program](https://simpletext-madics.github.io/2021/inforsid/en/program) | [Program committee](https://simpletext-madics.github.io/2021/inforsid/en/comite) | [Contact](https://simpletext-madics.github.io/2021/inforsid/en/contact) | [<img src="../FR.png" width="30">](https://simpletext-madics.github.io/2021/inforsid/fr/comite)
 
 ---
 
