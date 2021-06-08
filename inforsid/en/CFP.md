@@ -16,9 +16,9 @@ INFORSID conference (INFormatique des ORganisations et Systèmes d'Information e
 ### Calendar:
 Abstracts and articles submission: **10 avril 2021** (AoE)
 
-Notification : 16 avril 2021
+Notification: 16 avril 2021
 
-Camera ready (end date) : **10 mai 2021** (AoE)
+Camera ready (end date): **10 mai 2021** (AoE)
 
 INFORSID conference: 1-4 juin 2021
 
