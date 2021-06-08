@@ -7,7 +7,7 @@
 
 ## APPEL À COMMUNICATION 
 
-Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
+Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid/fr](https://simpletext-madics.github.io/2021/inforsid/fr)
 
 Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
 
