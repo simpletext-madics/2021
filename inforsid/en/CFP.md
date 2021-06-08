@@ -5,22 +5,22 @@
 
 ---
 
-## APPEL À COMMUNICATION 
+## Call for papers
 
-Site Web de SimpleText : [https://simpletext-madics.github.io/2021/inforsid](https://simpletext-madics.github.io/2021/inforsid)
+SimpleText website: [https://simpletext-madics.github.io/2021/inforsid/en](https://simpletext-madics.github.io/2021/inforsid/en)
 
-Site de soumission : [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
+Submission website: [https://easychair.org/conferences/?conf=inforsid2021](https://easychair.org/conferences/?conf=inforsid2021) 
 
-Congrès INFORSID (INFormatique des ORganisations et Systèmes d'Information et de Décision) : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
+INFORSID conference (INFormatique des ORganisations et Systèmes d'Information et de Décision): [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
 
-### Calendrier :
-Soumission des résumés et des articles : **10 avril 2021** (AoE)
+### Calendar:
+Abstracts and articles submission: **10 avril 2021** (AoE)
 
 Notification : 16 avril 2021
 
-Camera ready (date finale impérative) : **10 mai 2021** (AoE)
+Camera ready (end date) : **10 mai 2021** (AoE)
 
-Conférence INFORSID: 1-4 juin 2021
+INFORSID conference: 1-4 juin 2021
 
 ### Contexte : 
 Les systèmes modernes d'accès à l'information promettent de donner aux citoyens un accès direct à des informations clés provenant de sources primaires faisant autorité. La littérature scientifique est concernée mais est en réalité difficilement accessible aux non-experts en raison de la complexité langagière, la structure, longueur, etc des documents scientifiques et du manque d’acculturation scientifique. La teneur du débat scientifique qui procède par confrontation d’une multiplicité d’études avant de parvenir à un consensus est aussi source de complexité.  Les décisions individuelles ou politiques sont potentiellement impactées par une méconnaissance  de l'ensemble des travaux et débats  scientifiques.
