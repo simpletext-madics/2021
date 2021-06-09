@@ -43,12 +43,12 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 
 ## Programme de l’Action MACLEAN
 **Lundi 5 juillet 9h00-12h30**  
-* 9h00 : Introduction de la demi-journée **« Domain Adaptation in Earth Observation&nbsp;»** Bet bilan annuel des activités MACLEAN  
-* 9h20 : **« Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods »**, *Nicolas Courty*  
+* 9h00 : Introduction de la demi-journée **«&nbsp;Domain Adaptation in Earth Observation&nbsp;»** et bilan annuel des activités MACLEAN  
+* 9h20 : **«&nbsp;Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods&nbsp;»**, *Nicolas Courty*  
 * 10h20 : *Pause*  
 * 10h30 : Exposés junior :
-**« Using domain adaptation to combat training data scarcity in land cover mapping »**, *Benjamin Lucas*
-**« Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning »**, *Rodrigo Caye Daudt*  
+**«&nbsp;Using domain adaptation to combat training data scarcity in land cover mapping&nbsp;»**, *Benjamin Lucas*
+**«&nbsp;Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning&nbsp;»**, *Rodrigo Caye Daudt*  
 * 11h30 : **Exposé industriel/thématique**, *intervenant et titre à venir*  
 * 12h00 : **Table ronde / discussions**  
 * 12h30 : *Fin de l'atelier*
@@ -56,11 +56,8 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 ## Programme de l’Action DOING
 **Lundi 5 juillet 13h30-17h30**  
 * 13h30 : **Introduction et présentation courte de DOING**  
-* 13h45 : **« Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods »**, *Nicolas Courty*  
-* 10h20 : *Pause*  
-* 10h30 : Exposés junior :
-**« Using domain adaptation to combat training data scarcity in land cover mapping »**, *Benjamin Lucas*
-**« Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning »**, *Rodrigo Caye Daudt*  
-* 11h30 : **Exposé industriel/thématique**, *intervenant et titre à venir*  
-* 12h00 : **Table ronde / discussions**  
-* 12h30 : *Fin de l'atelier*
+* 13h45 : Keynote de *Aurélie Névéol, titre à péciser*
+* 14h45 : Keynote **«&nbsp;Querying graphs with data&nbsp;»**, *Domagoj Vrogoc*
+* 15h45 : *Pause*  
+* 16h00 : Turoriel **«&nbsp;Natural language processing and databases&nbsp;»**, *Altigran Soares da Silva*
+* 17h30 : *Fin de l'atelier*
