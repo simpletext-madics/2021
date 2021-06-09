@@ -18,7 +18,6 @@ Lieu : en distanciel
 9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)**   
 Intervenants : *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MACLEAN)
-[lien](#programme-1)
 
 13h30 - 17h00 : **[Action DOING](https://www.madics.fr/actions/doing/)**   
 Intervenants : *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*   
@@ -85,7 +84,7 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 * 17h00 : **Table ronde, synthèse et clôture**
 * 17h30 : *Fin de l'atelier*
 
-## Programme 1
+## Programme de l’Atelier FENDER
 Cette demi-journée s’organise autour de présentations de chercheurs confirmés, de présentations de doctorants et une table ronde pour échanger autour du futur de l’Atelier, mais aussi des thématiques scientifiques qu’il porte.
 
 Le but est aussi de mélanger les aspects informatiques et sciences sociales au mieux en ayant un exposé qui ne soit pas directement orienté sur des méthodologies ou des propositions purement informatiques.  
