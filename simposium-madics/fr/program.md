@@ -43,8 +43,20 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 
 ## Programme de l’Action MACLEAN
 **Lundi 5 juillet 9h00-12h30**  
-* 9h00 : Introduction de la demi-journée **« Domain Adaptation in Earth Observation »** et bilan annuel des activités MACLEAN  
+* 9h00 : Introduction de la demi-journée **« Domain Adaptation in Earth Observation »** Aet bilan annuel des activités MACLEAN  
 * 9h20 : **« Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods »**, *Nicolas Courty*  
+* 10h20 : *Pause*  
+* 10h30 : Exposés junior :
+**« Using domain adaptation to combat training data scarcity in land cover mapping »**, *Benjamin Lucas*
+**« Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning »**, *Rodrigo Caye Daudt*  
+* 11h30 : **Exposé industriel/thématique**, *intervenant et titre à venir*  
+* 12h00 : **Table ronde / discussions**  
+* 12h30 : *Fin de l'atelier*
+
+## Programme de l’Action DOING
+**Lundi 5 juillet 13h30-17h30**  
+* 13h30 : **Introduction et présentation courte de DOING**  
+* 13h45 : **« Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods »**, *Nicolas Courty*  
 * 10h20 : *Pause*  
 * 10h30 : Exposés junior :
 **« Using domain adaptation to combat training data scarcity in land cover mapping »**, *Benjamin Lucas*
