@@ -23,7 +23,7 @@ Camera ready (end date): **May 10, 2021** (AoE)
 INFORSID conference: June 1-4, 2021
 
 ### Context: 
-Modern information access systems promise to give citizens direct access to key information from authoritative primary sources. The scientific literature is involved but is in fact difficult to access for non-experts because of the complexity of the language, structure, length, etc of scientific papers and the lack of scientific acculturation. The content of the scientific debate, which proceeds by comparing a multiplicity of studies before reaching a consensus, is also a source of complexity. Individual or political decisions are potentially affected by a lack of knowledge of the whole body of scientific work and debate.
+Modern information access systems promise to give citizens direct access to key information from authoritative primary sources. The scientific literature is involved but is in fact difficult to access for non-experts because of the complexity of the language, structure, length, etc., of scientific papers and the lack of scientific acculturation. The content of the scientific debate, which proceeds by comparing a multiplicity of studies before reaching a consensus, is also a source of complexity. Individual or political decisions are potentially affected by a lack of knowledge of the whole body of scientific work and debate.
 
 This reading difficulty also exists when scientists are interested in scientific documents from disciplines in which they are not experts. Conflicting results within a discipline are difficult for non-specialists to understand. What about conflicting results between disciplines?
 
