@@ -27,9 +27,9 @@ Intervenants : *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MADONA)
 
 13h30 - 17h00 :
-* **[Atelier SimpleText](https://www.madics.fr/ateliers/simpletext/)** [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
-* **[Action BigData4Astro](https://www.madics.fr/actions/bigdata4astro/)** [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=BigData4Astro)
-* **[Action RoCED – Session 2](https://www.madics.fr/ateliers/RoCED/)** [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
+* **[Atelier SimpleText](https://www.madics.fr/ateliers/simpletext/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
+* **[Action BigData4Astro](https://www.madics.fr/actions/bigdata4astro/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=BigData4Astro)
+* **[Action RoCED – Session 2](https://www.madics.fr/ateliers/RoCED/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
 
 ## Jeudi 8 juillet
 9h00 - 12h30 : **[Atelier FENDER](https://www.madics.fr/ateliers/fender/)**   
@@ -61,3 +61,32 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 * 15h45 : *Pause*  
 * 16h00 : Turoriel **«&nbsp;Natural language processing and databases&nbsp;»**, *Altigran Soares da Silva*
 * 17h30 : *Fin de l'atelier*
+
+## Programme de l’Action LEMON
+**Lundi 5 juillet 13h30-17h30**  
+* 13h30 : **Introduction de l’Action LEMON**  
+* 13h45 : Exposé de *Elena Cabrio*
+* 14h15 : Exposé de *Serena Villata*
+* 14h45 : *Pause*
+* 15h15 : Exposé junior **«&nbsp;Hatemeter&nbsp;»**, *Mario Laurent*
+* 15h45 : Exposé junior **«&nbsp;Social media pour les crises&nbsp;»**, *Julien Coshe*
+* 16h15 : Exposé **«&nbsp;Fake news&nbsp;»**
+* 16h45 : *Pause*  
+* 17h00 : **Table ronde, synthèse et clôture**
+* 17h30 : *Fin de l'atelier*
+
+## Programme de l’Atelier FENDER
+Cette demi-journée s’organise autour de présentations de chercheurs confirmés, de présentations de doctorants et une table ronde pour échanger autour du futur de l’Atelier, mais aussi des thématiques scientifiques qu’il porte.
+
+Le but est aussi de mélanger les aspects informatiques et sciences sociales au mieux en ayant un exposé qui ne soit pas directement orienté sur des méthodologies ou des propositions purement informatiques.  
+
+**Jeudi 8 juillet 9h00-12h30  **  
+* 9h00 : **Bienvenue et mot d’introduction**, *Julien Aligon, Michael Baker, Nicolas Labroche*
+* 9h15 : **«&nbsp;Explainable Anomaly Detection (xAD)&nbsp;»**, *Vassilis Christophides (INRIA)*
+* 9h45 : **«&nbsp;Epistémologie et philosophie des sciences de l’apprentissage machine&nbsp;»**, *Christophe Denis (LIP6, GT explicabilité GdR IA)*
+* 10h15 : *Pause*  
+* 10h30 : Exposé de *Robin Cugny (IRIT), titre à préciser*
+* 11h00 : **«&nbsp;Explainable Recommender Systems&nbsp;»**, *Willème Verdeaux (LIFAT)*
+* 11h30 : **«&nbsp;Explanation for Humans, for Machines, for Human-Machine Interactions?&nbsp;»**, *Alain Mille (LIRIS)*
+* 12h00 : **Table ronde**  
+* 12h30 : *Fin de l'atelier*
