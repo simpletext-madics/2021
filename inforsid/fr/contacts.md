@@ -15,6 +15,6 @@ E-mail : [simpletextworkshop@gmail.com](mailto:simpletextworkshop@gmail.com)
 
 Twitter : [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)  
 
-Google groupe : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
+Groupe Google : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)  
 
 Congrès INFORSID : [https://inforsid2021.sciencesconf.org/](https://inforsid2021.sciencesconf.org/)
