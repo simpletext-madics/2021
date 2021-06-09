@@ -6,7 +6,7 @@
 ---
 
 ## Lundi 5 juillet
-9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)**
+9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)**   
 Intervenants : *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MACLEAN)
 
