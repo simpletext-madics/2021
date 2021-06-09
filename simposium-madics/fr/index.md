@@ -8,13 +8,6 @@
 ## Atelier SimpleText – GDR IA (2021)  
 **_Simplification et Vulgarisation des Textes Scientifiques_**
 
-### Responsables
-* [Liana Ermakova](mailto:liana.ermakova@univ-brest.fr), HCTI, Univ. Bretagne Occidentale
-* [Josiane Mothe](mailto:josiane.mothe@irit.fr), IRIT, INS2i
-* [Eric Sanjuan](eric.sanjuan@univ-avignon.fr), LIA, INS2i  
-
-**Correspondant ComDIR :** [Frédéric Bimbot](mailto:bimbot@irisa.fr)
-
 ### Thématiques
 * Traitement automatique de la langue naturelle
 * Recherche d’information
