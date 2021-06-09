@@ -5,12 +5,12 @@
 
 ---
 
-Website: https://simpletext-madics.github.io/2021/clef/en/
+Website: [https://simpletext-madics.github.io/2021/clef/en/](https://simpletext-madics.github.io/2021/clef/en/)
 
-Twitter: https://twitter.com/SimpletextW
+Twitter: [https://twitter.com/SimpletextW](https://twitter.com/SimpletextW)
 
-Google group: https://groups.google.com/g/simpletext
+Google group: [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext)
 
-CLEF website: http://clef2021.clef-initiative.eu/index.php
+CLEF website: [http://clef2021.clef-initiative.eu/index.php](http://clef2021.clef-initiative.eu/index.php)
  
 Any question? Don’t hesitate to contact us by e-mail: [simpletextworkshop@gmail.com](mailto:simpletextworkshop@gmail.com)
