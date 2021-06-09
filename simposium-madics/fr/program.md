@@ -80,7 +80,7 @@ Cette demi-journée s’organise autour de présentations de chercheurs confirm�
 
 Le but est aussi de mélanger les aspects informatiques et sciences sociales au mieux en ayant un exposé qui ne soit pas directement orienté sur des méthodologies ou des propositions purement informatiques.  
 
-**Jeudi 8 juillet 9h00-12h30  **  
+**Jeudi 8 juillet 9h00-12h30**  
 * 9h00 : **Bienvenue et mot d’introduction**, *Julien Aligon, Michael Baker, Nicolas Labroche*
 * 9h15 : **«&nbsp;Explainable Anomaly Detection (xAD)&nbsp;»**, *Vassilis Christophides (INRIA)*
 * 9h45 : **«&nbsp;Epistémologie et philosophie des sciences de l’apprentissage machine&nbsp;»**, *Christophe Denis (LIP6, GT explicabilité GdR IA)*
