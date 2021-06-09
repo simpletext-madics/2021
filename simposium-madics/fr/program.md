@@ -43,7 +43,7 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 
 ## Programme de l’Action MACLEAN
 **Lundi 5 juillet 9h00-12h30**  
-* 9h00 : Introduction de la demi-journée **« Domain Adaptation in Earth Observation &nbsp;»** et bilan annuel des activités MACLEAN  
+* 9h00 : Introduction de la demi-journée **« Domain Adaptation in Earth Observation&nbsp;»** Bet bilan annuel des activités MACLEAN  
 * 9h20 : **« Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods »**, *Nicolas Courty*  
 * 10h20 : *Pause*  
 * 10h30 : Exposés junior :
