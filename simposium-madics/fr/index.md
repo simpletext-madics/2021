@@ -42,7 +42,7 @@ La simplification de textes doit également résoudre des défis techniques comm
 
 L’usage, l’usabilité et l’évaluation des textes simplifiés est un autre pan des sujets qu’abordera l’atelier SimpleText.
 
-La vulgarisation scientifique est liée au journalisme scientifique. Contrairement à l’Action MADICS MADONA (Maîtriser l’Analyse interactive de DOnnées pour la NArration journalistique) qui vise la génération d’un article à partir de l’analyse des données structurée, l’atelier SimpleText est orienté vers la génération d’un article basée sur les données textuelles (publications scientifiques et leurs résumés).  
+La vulgarisation scientifique est liée au journalisme scientifique. Contrairement à l’Action MADICS MADONA (Maîtriser l’Analyse interactive de DOnnées pour la NArration journalistique) qui vise la génération d’un article à partir de l’analyse des données structurée, l’atelier SimpleText est orienté vers la génération d’un article basée sur les données textuelles (publications scientifiques et leurs résumés).
 
 <br>
 
