@@ -77,9 +77,24 @@ Speakers: *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème Verde
 * 14:15 : Presentation by *Serena Villata*
 * 14:45 : *Break*
 * 15:15 : Junior presentation **"Hatemeter"**, *Mario Laurent*
-* 15:45 : Junior presentation **"Social media for crises"**, *Julien Coshe*
+* 15:45 : Junior presentation **"Social media pour les crises"**, *Julien Coshe*
 * 16:15 : **“Fake news"** presentation
-* 16:45 : *Pause*  
+* 16:45 : *Break*  
 * 17:00 : **Round table, synthesis and closure**
 * 17:30 : *End of the workshop*
 
+## FENDER Workshop program
+This half-day event is organized around presentations by established researchers, presentations by doctoral students and a round table to discuss the future of the Workshop and the scientific themes it covers.
+
+The goal is also to mix the computer science and social science aspects at best by having a presentation that is not purely oriented on computer science methodologies and proposals.
+
+**Thursday, July 8th 9:00-12:30**  
+* 9:00 : **Welcome and introductory remarks**, *Julien Aligon, Michael Baker, Nicolas Labroche*
+* 9:15 : **"Explainable Anomaly Detection (xAD)"**, *Vassilis Christophides (INRIA)*
+* 9:45 : **"Epistémologie et philosophie des sciences de l’apprentissage machine"**, *Christophe Denis (LIP6, GT explicabilité GdR IA)*
+* 10:15 : *Break*  
+* 10:30 : Presentation by *Robin Cugny (IRIT), title to be specified*
+* 11:00 : **"Explainable Recommender Systems"**, *Willème Verdeaux (LIFAT)*
+* 11:30 : **"Explanation for Humans, for Machines, for Human-Machine Interactions? "**, *Alain Mille (LIRIS)*
+* 12:00 : **Round table**  
+* 12:30 : *End of the workshop*
