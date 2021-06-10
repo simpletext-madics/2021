@@ -8,7 +8,7 @@
 ## SimpleText Workshop - RG AI (2021)  
 **_Simplification and Popularization of Scientific Texts_**
 
-### Theme
+### Themes
 * Automatic natural language processing
 * Information retrieval
 * Scientific journalism
