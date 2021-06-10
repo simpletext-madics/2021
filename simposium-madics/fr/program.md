@@ -15,12 +15,12 @@ Lieu : en distanciel
 [Lien vers le Symposium 2020](https://www.madics.fr/event/titre1590987414-8992/)
 
 ## Lundi 5 juillet
-9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)**   
+9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)** [(Programme détaillé)](#programme-de-laction-maclean)  
 Intervenants : *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MACLEAN)
-[lien](#programme-de-laction-maclean)
 
-13h30 - 17h00 : **[Action DOING](https://www.madics.fr/actions/doing/)**   
+
+13h30 - 17h00 : **[Action DOING](https://www.madics.fr/actions/doing/)** [(Programme détaillé)](#programme-de-laction-doing)  
 Intervenants : *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=DOING)
 
@@ -28,7 +28,7 @@ Intervenants : *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*
 9h00 - 12h30 : **[Atelier RoCED – Session 1](https://www.madics.fr/ateliers/roced/)**   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED)
 
-13h30 - 17h00 : **[Action LEMON](https://www.madics.fr/actions/lemon/)**   
+13h30 - 17h00 : **[Action LEMON](https://www.madics.fr/actions/lemon/)** [(Programme détaillé)](#programme-de-laction-lemon)  
 Intervenants : *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=LEMON)
 
@@ -42,7 +42,7 @@ Intervenants : *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*
 * **[Action RoCED – Session 2](https://www.madics.fr/ateliers/RoCED/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
 
 ## Jeudi 8 juillet
-9h00 - 12h30 : **[Atelier FENDER](https://www.madics.fr/ateliers/fender/)**   
+9h00 - 12h30 : **[Atelier FENDER](https://www.madics.fr/ateliers/fender/)** [(Programme détaillé)](#programme-de-latelier-fender)  
 Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème Verdeaux, Alain Mille*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=FENDER)
 
