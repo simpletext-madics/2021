@@ -56,7 +56,7 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 * 9h20 : **«&nbsp;Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods&nbsp;»**, *Nicolas Courty*  
 * 10h20 : *Pause*  
 * 10h30 : Exposés junior :
-**«&nbsp;Using domain adaptation to combat training data scarcity in land cover mapping&nbsp;»**, *Benjamin Lucas*
+**«&nbsp;Using domain adaptation to combat training data scarcity in land cover mapping&nbsp;»**, *Benjamin Lucas*  
 **«&nbsp;Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning&nbsp;»**, *Rodrigo Caye Daudt*  
 * 11h30 : **Exposé industriel/thématique**, *intervenant et titre à venir*  
 * 12h00 : **Table ronde / discussions**  
@@ -72,7 +72,7 @@ Intervenants : *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème 
 * 17h30 : *Fin de l'atelier*
 
 ## Programme de l’Action LEMON
-**Lundi 5 juillet 13h30-17h30**  
+**Mardi 6 juillet 13h30-17h30**  
 * 13h30 : **Introduction de l’Action LEMON**  
 * 13h45 : Exposé de *Elena Cabrio*
 * 14h15 : Exposé de *Serena Villata*
