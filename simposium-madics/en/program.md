@@ -15,11 +15,11 @@ Location: remote
 [Link to the 2020 Symposium](https://www.madics.fr/event/titre1590987414-8992/)
 
 ## Monday, July 5th
-9:00 - 12:30: **[MACLEAN Action](https://www.madics.fr/actions/maclean/)**   
+9:00 - 12:30: **[MACLEAN Action](https://www.madics.fr/actions/maclean/)** [(Detailed program)](#maclean-action-program)  
 Speakers: *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MACLEAN)
 
-13:30 - 17:00: **[DOING Action](https://www.madics.fr/actions/doing/)**   
+13:30 - 17:00: **[DOING Action](https://www.madics.fr/actions/doing/)** [(Detailed program)](#doing-action-program)  
 Speakers: *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=DOING)
 
@@ -27,7 +27,7 @@ Speakers: *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*
 9:00 - 12:30: **[RoCED Workshop - Session 1](https://www.madics.fr/ateliers/roced/)**   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED)
 
-13:30 - 17:00: **[LEMON Action](https://www.madics.fr/actions/lemon/)**   
+13:30 - 17:00: **[LEMON Action](https://www.madics.fr/actions/lemon/)** [(Detailed program)](#lemon-action-program)  
 Speakers: *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=LEMON)
 
@@ -41,7 +41,7 @@ Speakers: *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*
 * **[RoCED Action - Session 2](https://www.madics.fr/ateliers/RoCED/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
 
 ## Thursday, July 8th
-9:00 - 12:30: **[FENDER Workshop](https://www.madics.fr/ateliers/fender/)**   
+9:00 - 12:30: **[FENDER Workshop](https://www.madics.fr/ateliers/fender/)** [(Detailed program)](#fender-workshop-program)  
 Speakers: *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème Verdeaux, Alain Mille*   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=FENDER)
 
