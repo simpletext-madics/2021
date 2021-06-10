@@ -52,36 +52,36 @@ Speakers: *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème Verde
 
 ## MACLEAN Action Program
 **Monday, July 5th 9:00-12:30**  
-* 9:00 : Introduction of the half-day **"Domain Adaptation in Earth Observation"** and year report of MACLEAN activities  
-* 9:20 : **"Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods"**, *Nicolas Courty*  
-* 10:20 : *Break*  
-* 10:30 : Junior presentations: **"Using domain adaptation to combat training data scarcity in land cover mapping"**, *Benjamin Lucas*  
+* 9:00: Introduction of the half-day **"Domain Adaptation in Earth Observation"** and year report of MACLEAN activities  
+* 9:20: **"Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods"**, *Nicolas Courty*  
+* 10:20: *Break*  
+* 10:30: Junior presentations: **"Using domain adaptation to combat training data scarcity in land cover mapping"**, *Benjamin Lucas*  
 **"Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning"**, *Rodrigo Caye Daudt*  
-* 11:30 : **Industry/thematic presentation**, *speaker and title to come*  
-* 12:00 : **Round table / discussions**  
-* 12:30 : *End of the workshop*
+* 11:30: **Industry/thematic presentation**, *speaker and title to come*  
+* 12:00: **Round table / discussions**  
+* 12:30: *End of the workshop*
 
 ## DOING Action Program
 **Monday, July 5th 13:30-17:30**  
-* 13:30 : **Introduction and short presentation of DOING**  
-* 13:45 : Keynote by *Aurélie Névéol, title to be specified*
-* 14:45 : **"Querying graphs with data"** keynote, *Domagoj Vrogoc*
-* 15:45 : *Break*  
-* 16:00 : **"Natural language processing and databases"** tutorial, *Altigran Soares da Silva*
-* 17:30 : *End of the workshop*
+* 13:30: **Introduction and short presentation of DOING**  
+* 13:45: Keynote by *Aurélie Névéol, title to be specified*
+* 14:45: **"Querying graphs with data"** keynote, *Domagoj Vrogoc*
+* 15:45: *Break*  
+* 16:00: **"Natural language processing and databases"** tutorial, *Altigran Soares da Silva*
+* 17:30: *End of the workshop*
 
 ## LEMON Action Program
 **Tuesday, July 6th 13:30-17:30**  
-* 13:30 : **Introduction of the LEMON Action**  
-* 13:45 : Presentation by *Elena Cabrio*
-* 14:15 : Presentation by *Serena Villata*
-* 14:45 : *Break*
-* 15:15 : Junior presentation **"Hatemeter"**, *Mario Laurent*
-* 15:45 : Junior presentation **"Social media pour les crises"**, *Julien Coshe*
-* 16:15 : **“Fake news"** presentation
-* 16:45 : *Break*  
-* 17:00 : **Round table, synthesis and closure**
-* 17:30 : *End of the workshop*
+* 13:30: **Introduction of the LEMON Action**  
+* 13:45: Presentation by *Elena Cabrio*
+* 14:15: Presentation by *Serena Villata*
+* 14:45: *Break*
+* 15:15: Junior presentation **"Hatemeter"**, *Mario Laurent*
+* 15:45: Junior presentation **"Social media pour les crises"**, *Julien Coshe*
+* 16:15: **“Fake news"** presentation
+* 16:45: *Break*  
+* 17:00: **Round table, synthesis and closure**
+* 17:30: *End of the workshop*
 
 ## FENDER Workshop program
 This half-day event is organized around presentations by established researchers, presentations by doctoral students and a round table to discuss the future of the Workshop and the scientific themes it covers.
@@ -89,12 +89,12 @@ This half-day event is organized around presentations by established researchers
 The goal is also to mix the computer science and social science aspects at best by having a presentation that is not purely oriented on computer science methodologies and proposals.
 
 **Thursday, July 8th 9:00-12:30**  
-* 9:00 : **Welcome and introductory remarks**, *Julien Aligon, Michael Baker, Nicolas Labroche*
-* 9:15 : **"Explainable Anomaly Detection (xAD)"**, *Vassilis Christophides (INRIA)*
-* 9:45 : **"Epistémologie et philosophie des sciences de l’apprentissage machine"**, *Christophe Denis (LIP6, GT explicabilité GdR IA)*
-* 10:15 : *Break*  
-* 10:30 : Presentation by *Robin Cugny (IRIT), title to be specified*
-* 11:00 : **"Explainable Recommender Systems"**, *Willème Verdeaux (LIFAT)*
-* 11:30 : **"Explanation for Humans, for Machines, for Human-Machine Interactions? "**, *Alain Mille (LIRIS)*
-* 12:00 : **Round table**  
-* 12:30 : *End of the workshop*
+* 9:00: **Welcome and introductory remarks**, *Julien Aligon, Michael Baker, Nicolas Labroche*
+* 9:15: **"Explainable Anomaly Detection (xAD)"**, *Vassilis Christophides (INRIA)*
+* 9:45: **"Epistémologie et philosophie des sciences de l’apprentissage machine"**, *Christophe Denis (LIP6, GT explicabilité GdR IA)*
+* 10:15: *Break*  
+* 10:30: Presentation by *Robin Cugny (IRIT), title to be specified*
+* 11:00: **"Explainable Recommender Systems"**, *Willème Verdeaux (LIFAT)*
+* 11:30: **"Explanation for Humans, for Machines, for Human-Machine Interactions? "**, *Alain Mille (LIRIS)*
+* 12:00: **Round table**  
+* 12:30: *End of the workshop*
