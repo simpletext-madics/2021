@@ -52,7 +52,7 @@ We invite original works, extended abstracts of previously published articles by
 
 The papers accepted in the INFORSID workshops will be published in the proceedings under the title **"Ateliers d'INFORSID - dessinons ensemble le futur des systèmes d'information"**. 
 
-### The topics targeted are the following (this list is not exhaustive):
+### The themes targeted are the following (this list is not exhaustive):
 * Automated or computer-assisted simplification of science
 * Automated or computer-assisted popularization of science
 * Automatic synthesis of scientific texts
