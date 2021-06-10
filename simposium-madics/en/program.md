@@ -47,3 +47,39 @@ Speakers: *Vassilis Christophides, Christophe Denis, Robin Cugny, Willème Verde
 
 13:30 - 17:00: **[PLATFORM Action](https://www.madics.fr/actions/platform/)**   
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=PLATFORM)
+
+---
+
+## MACLEAN Action Program
+**Monday, July 5th 9:00-12:30**  
+* 9:00 : Introduction of the half-day **"Domain Adaptation in Earth Observation"** and year report of MACLEAN activities  
+* 9:20 : **"Old and new problems and algorithms for Domain Adaptation, with a special focus on Optimal Transport based methods"**, *Nicolas Courty*  
+* 10:20 : *Break*  
+* 10:30 : Junior presentations: **"Using domain adaptation to combat training data scarcity in land cover mapping"**, *Benjamin Lucas*  
+**"Domain Alignment in Representation Space Using Cycle-Consistent Adversarial Learning"**, *Rodrigo Caye Daudt*  
+* 11:30 : **Industry/thematic presentation**, *speaker and title to come*  
+* 12:00 : **Round table / discussions**  
+* 12:30 : *End of the workshop*
+
+## DOING Action Program
+**Monday, July 5th 13:30-17:30**  
+* 13:30 : **Introduction and short presentation of DOING**  
+* 13:45 : Keynote by *Aurélie Névéol, title to be specified*
+* 14:45 : **"Querying graphs with data"** keynote, *Domagoj Vrogoc*
+* 15:45 : *Break*  
+* 16:00 : **"Natural language processing and databases"** tutorial, *Altigran Soares da Silva*
+* 17:30 : *End of the workshop*
+
+## LEMON Action Program
+**Tuesday, July 6th 13:30-17:30**  
+* 13:30 : **Introduction of the LEMON Action**  
+* 13:45 : Presentation by *Elena Cabrio*
+* 14:15 : Presentation by *Serena Villata*
+* 14:45 : *Break*
+* 15:15 : Junior presentation **"Hatemeter"**, *Mario Laurent*
+* 15:45 : Junior presentation **"Social media for crises"**, *Julien Coshe*
+* 16:15 : **“Fake news"** presentation
+* 16:45 : *Pause*  
+* 17:00 : **Round table, synthesis and closure**
+* 17:30 : *End of the workshop*
+
