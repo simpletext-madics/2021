@@ -18,6 +18,7 @@ Lieu : en distanciel
 9h00 - 12h30 : **[Action MACLEAN](https://www.madics.fr/actions/maclean/)**   
 Intervenants : *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*   
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MACLEAN)
+[lien](#programme-de-laction-maclean)
 
 13h30 - 17h00 : **[Action DOING](https://www.madics.fr/actions/doing/)**   
 Intervenants : *Aurélie Névéol, Domagoj Vrogoc, Altigran Soares da Silva*   
