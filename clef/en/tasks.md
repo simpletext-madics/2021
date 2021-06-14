@@ -26,3 +26,4 @@ For this edition we use the Citation Network Dataset: DBLP+Citation, ACM Citatio
 
 ### 2021 Queries
 For this edition queries are a selection of recent n press titles from The Guardian enriched with keywords manually extracted from the content of the article. It has been checked that each keyword allows to extract at least 5 relevant abstracts. The use of these keywords is optional.
+
