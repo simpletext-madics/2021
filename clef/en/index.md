@@ -11,8 +11,6 @@
 
 SimpleText is a new workshop organised as a part of [CLEF-2021 conference](http://clef2021.clef-initiative.eu/), initiated by [CLEF initiative](http://www.clef-initiative.eu/).
 
-<br>
-
 News stories judged to be true according to fact-checkers spread more slowly than fake news and reach fewer people. Stories the individuals find credible can determine their behaviour, e.g. response to the pandemic, the application of social distancing, using dangerous fake medical treatments, etc. Fake news plays on people’s emotions, but they are also easier to understand by non-professionals than the research papers. 
 
 Since scientific publications are difficult for people outside the domain and so they do not read them at all even if they are accessible. Popularization of science is one of UNESCO’s oldest programs, but human simplification of scientific documents is expensive and time consuming. Users cannot have an instant, simplified summary on a specific topic they are interested in. 
