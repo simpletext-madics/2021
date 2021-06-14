@@ -7,8 +7,7 @@
 
 ## SimpleText-2021: (Re)Telling right scientific stories to non-specialists via text simplification
 
-<img src="../simpletext-logo-blue.png" width="150"> SimpleText is a new workshop organised as a part of [CLEF-2021 conference](http://clef2021.clef-initiative.eu/), initiated by [CLEF initiative](http://www.clef-initiative.eu/).
-
+<img src="../simpletext-logo-blue.png" width="150"> | SimpleText is a new workshop organised as a part of [CLEF-2021 conference](http://clef2021.clef-initiative.eu/), initiated by [CLEF initiative](http://www.clef-initiative.eu/).
 
 <br>
 
