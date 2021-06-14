@@ -5,7 +5,7 @@
 
 ---
 
-<img align="left" src="../simpletext-logo-blue.png" width="100"/> 
+<img align="left" src="../simpletext-logo-blue.png" width="100"/>  
 
 ## SimpleText-2021: (Re)Telling right scientific stories to non-specialists via text simplification
 
