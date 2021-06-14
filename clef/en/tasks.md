@@ -38,3 +38,24 @@ For this edition queries are a selection of recent n press titles from The Guard
 * DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract):
 <img src="../MDformat.png">
 
+## Pilot Task 1: Selecting passages to include in a simplified summary - Content Simplification
+
+Given an article from a major international newspaper general audience, this pilot task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper.
+
+*Output:*  
+ 
+A maximum of 1000 passages to be included in a simplified summary in a TSV (Tab-Separated Values) file with the following fields:
+* run_id: Run ID starting with team_id_
+* manual: Whether the run is manual {0,1}
+* topic_id: Topic ID
+* doc_id: Source document ID
+* passage: Text of the selected passage
+* rank: Passage rank
+
+*run_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rank*
+
+### Evaluation  
+Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
+
+Example of OUTPUT:  
+<img src="../output.png">
