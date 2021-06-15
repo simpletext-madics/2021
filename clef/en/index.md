@@ -28,4 +28,4 @@ Keywords:
 * Contextualization
 * Background knowledge
 
-[<img src="../logo-clef-initiative.png" width="100"/>](http://www.clef-initiative.eu/) 
+[<img align="center" src="../logo-clef-initiative.png" width="150">](http://www.clef-initiative.eu/) [<img align="center" src="../logo-clef-2021.png" width="150">](http://clef2021.clef-initiative.eu/) 
