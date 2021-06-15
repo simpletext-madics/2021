@@ -13,6 +13,8 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 [Access](https://simpletext-madics.github.io/2021/clef/en/tasks) | [Pilot task 1](https://simpletext-madics.github.io/2021/clef/en/task1) | [Pilot task 2](https://simpletext-madics.github.io/2021/clef/en/task2) | [Pilot task 3](https://simpletext-madics.github.io/2021/clef/en/task3)
 
+<br>
+
 ## Pilot Task 1: Selecting passages to include in a simplified summary - Content Simplification
 
 Given an article from a major international newspaper general audience, this pilot task aims at retrieving from a large scientific bibliographic database with abstracts, all passages that would be relevant to illustrate this article. Extracted passages should be adequate to be inserted as plain citations in the original paper.
