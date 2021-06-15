@@ -9,6 +9,10 @@
 
 We invite you to submit both automatic and manual runs! Manual intervention should be reported.
 
+---
+
+[Access](https://simpletext-madics.github.io/2021/clef/en/tasks) | [Pilot task 1](https://simpletext-madics.github.io/2021/clef/en/task1) | [Pilot task 2](https://simpletext-madics.github.io/2021/clef/en/task2) | [Pilot task 3](https://simpletext-madics.github.io/2021/clef/en/task3)
+
 ## Access
 Please register at the SimpleText@CLEF workshop in order to access the data: [http://clef2021-labs-registration.dei.unipd.it/](http://clef2021-labs-registration.dei.unipd.it/)  
 After registration, you will receive an email with information on how to log in to the data server: [https://guacamole.univ-avignon.fr](https://guacamole.univ-avignon.fr)
