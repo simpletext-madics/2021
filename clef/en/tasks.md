@@ -71,6 +71,7 @@ OUTPUT example:
 The goal of this pilot task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text - for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case).
 
 *Output format:*  
+
 List of terms to be contextualized in a tabulated file TSV with the following fields:
 * *run_id*: Run ID starting with team_id_
 * *manual*: Whether the run is manual {0,1}
