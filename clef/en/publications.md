@@ -5,4 +5,4 @@
 
 ---
 
-[Text Simplification for Scientific Information Access: CLEF 2021 SimpleText Workshop](https://hal.archives-ouvertes.fr/hal-03121986v1) [[PDF]](..Paper-SimpleText_ECIR_2020.pdf) [[bibtex]](../Ermakova.bib)
+[Text Simplification for Scientific Information Access: CLEF 2021 SimpleText Workshop](https://hal.archives-ouvertes.fr/hal-03121986v1) [[PDF]](../Paper-SimpleText_ECIR_2020.pdf) [[bibtex]](../Ermakova.bib)
