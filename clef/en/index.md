@@ -27,3 +27,5 @@ Keywords:
 * Scientific journalism
 * Contextualization
 * Background knowledge
+
+[<img src="../logo-clef-initiative.png" width="100"/>](http://www.clef-initiative.eu/) 
