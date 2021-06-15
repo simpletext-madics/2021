@@ -58,13 +58,13 @@ A maximum of 1000 passages to be included in a simplified summary in a TSV (Tab-
 ### Evaluation  
 Sentence pooling and automatic metrics will be used to evaluate these results. The relevance of the source document will be evaluated as well as potential unresolved anaphora issues.
 
-OUTPUT example:  
+OUTPUT example:
+
 | run_id | manual | topic_id | doc_id | passage | rank |
 |:-------|:-------|:---------|:-------|:--------|:-----|
 | ST1_1 | 1 | 1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects. | 1 |
 | ST1_1 | 1 | 1 | 3003409254 | big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. | 2 |
 | ST1_1 | 1 | 1 | 3003409254 | Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. | 3 |
-
 
 ## Pilot Task 2: Identifying difficult-to-understand concepts for non experts - Content Simplification
 
