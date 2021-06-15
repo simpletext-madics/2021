@@ -23,8 +23,8 @@ Submissions should be written in English following the CEURART 1-column paper st
 Submissions will be reviewed by at least 2 reviewers.
 
 Links:  
-[Submission system](https://easychair.org/conferences/?conf=simpletext2021)  
-[Submission template](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
+Submission site: [https://easychair.org/conferences/?conf=simpletext2021](https://easychair.org/conferences/?conf=simpletext2021)  
+Submission template: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
 
 ## List of Topics (not exhaustive)
 * Automated or computer-assisted scientific simplification
