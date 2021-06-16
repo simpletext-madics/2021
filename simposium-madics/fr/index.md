@@ -17,7 +17,7 @@
 ### Données concernées
 * Articles scientifiques
 * Résumés des articles scientifiques
-* Articles Wikipedia
+* Articles Wikipédia
 * Articles du journalisme scientifique
 
 ### Contexte scientifique
