@@ -31,7 +31,7 @@ Improving the intelligibility of texts and adapting them to different audiences 
 
 There is a wide range of important societal challenges that SimpleText aims to describe more precisely. Open science is one of them. Making research truly open and accessible to all implicates providing works in a way that is easy to understand for the average reader (Fecher and Friesike, 2014).
 
-Text simplification must also solve technical challenges such as the selection of important passages, the summary of these passages, the readability of texts, etc. SimpleText aims at an overview of these technical challenges by mobilizing different scientific disciplines involved.
+Text simplification must also solve technical challenges such as the selection of important passages, the summary of these passages, the readability of texts, etc. SimpleText aims to adress these technical challenges by mobilizing different scientific disciplines involved.
 
 The use, usability and evaluation of simplified texts are another area of focus for the SimpleText workshop.
 
