@@ -31,9 +31,9 @@ L’amélioration de la compréhensibilité des textes et leur adaptation à dif
 
 Il existe un large éventail de défis sociétaux importants que SimpleText vise à décrire plus précisément. La science ouverte est l’une d’entre elles. Rendre la recherche réellement ouverte et accessible à tous implique de les fournir sous une forme lisible et compréhensible au lecteur (Fecher and Friesike, 2014).
 
-La simplification de textes doit également résoudre des défis techniques comme la sélection de passages importants, le résumé de ces passages, la lisibilité des textes, etc. SimpleText vise à un panorama de ses défis techniques en mobilisant différentes disciplines scientifiques concernées.
+La simplification de textes doit également résoudre des défis techniques tels que la sélection de passages importants, le résumé de ces passages, la lisibilité des textes, etc. SimpleText cible ces défis techniques en mobilisant différentes disciplines scientifiques concernées.
 
-L’usage, l’usabilité et l’évaluation des textes simplifiés est un autre pan des sujets qu’abordera l’atelier SimpleText.
+L’usage, l’usabilité et l’évaluation des textes simplifiés sont un autre pan des sujets qu’abordera l’atelier SimpleText.
 
 La vulgarisation scientifique est liée au journalisme scientifique. Contrairement à l’Action MADICS MADONA (Maîtriser l’Analyse interactive de DOnnées pour la NArration journalistique) qui vise la génération d’un article à partir de l’analyse de données structurées, l’atelier SimpleText est orienté vers la génération d’un article basée sur les données textuelles (publications scientifiques et leurs résumés).
 
