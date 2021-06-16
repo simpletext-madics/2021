@@ -33,7 +33,7 @@ There is a wide range of important societal challenges that SimpleText aims to d
 
 Text simplification must also solve technical challenges such as the selection of important passages, the summary of these passages, the readability of texts, etc. SimpleText aims at an overview of these technical challenges by mobilizing different scientific disciplines involved.
 
-The use, usability and evaluation of simplified texts is another area of focus for the SimpleText workshop.
+The use, usability and evaluation of simplified texts are another area of focus for the SimpleText workshop.
 
 Science popularization is related to scientific journalism. Contrary to the MADICS MADONA Action (Mastering Interactive Data Analysis for Journalism) which aims at generating an article from structured data analysis, the SimpleText workshop is oriented towards generating an article based on textual data (scientific publications and their abstracts).
 
