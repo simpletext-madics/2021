@@ -5,6 +5,10 @@
 
 ---
 
+[Présentation](https://simpletext-madics.github.io/2021/simposium-madics/fr/program) | [Programme SimpleText](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsimple) | [Programme du symposium](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsympo)
+
+---
+
 ## Présentation
 La troisième édition du Symposium MaDICS aura lieu en distanciel du 5 au 8 juillet 2021. Chaque demi-journée propose un programme riche en exposés courts construit par nos responsables d’Action et d’Atelier. Le programme complet sera disponible début juin. D’ici là : marquez vos agendas !
 
