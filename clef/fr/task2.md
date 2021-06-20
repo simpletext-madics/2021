@@ -22,7 +22,7 @@ L'objectif de cette tâche pilote est de déterminer quels termes (jusqu'à 10) 
 
 *Fomat de sortie :*  
 
-Liste des termes à contextualiser dans un fichier TSV tabulé avec les champs suivants :
+Liste des termes à contextualiser dans un fichier TSV tabulé avec les champs suivants&nbsp;:
 * *run_id* : ID du passage commençant par team_id_
 * *manual* : Si l'exécution est manuelle {0,1}
 * *topic_id* : ID du sujet
