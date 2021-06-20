@@ -26,8 +26,8 @@ Simplified passages in a TSV tabulated file with the following fields:
 * *run_id*: Run ID starting with team_id_
 * *manual*: Whether the run is manual {0,1}
 * *topic_id*: Topic ID 
-* *topic_text*: topic text
-* *source_passage*: source passage text 
+* *topic_text*: Topic text
+* *source_passage*: Source passage text 
 * *simplified_passage*: Text of the simplified passage 
 
 run_id &nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp; topic_text &nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp; source_passage &nbsp;&nbsp;&nbsp;&nbsp; simplified_passage
