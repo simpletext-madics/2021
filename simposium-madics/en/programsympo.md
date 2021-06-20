@@ -9,6 +9,8 @@
 
 ---
 
+## Symposium program
+
 ## Monday, July 5th
 9:00 - 12:30: **[MACLEAN Action](https://www.madics.fr/actions/maclean/)** [(Detailed program)](#maclean-action-program)  
 Speakers: *Nicolas Courty, Benjamin Lucas, Rodrigo Caye Daudt*   
