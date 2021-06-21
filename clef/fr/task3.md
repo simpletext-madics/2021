@@ -12,7 +12,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 ---
 
-[Accès](https://simpletext-madics.github.io/2021/clef/fr/tasks) | [Tâche pilote 1](https://simpletext-madics.github.io/2021/clef/fr/task1) | [Tâche pilote 2](https://simpletext-madics.github.io/2021/clef/fr/task2) | [Tâche pilote 3](https://simpletext-madics.github.io/2021/clef/fr/task3)
+<button>[Accès](https://simpletext-madics.github.io/2021/clef/fr/tasks)</button> | <button>[Tâche pilote 1](https://simpletext-madics.github.io/2021/clef/fr/task1)</button> | <button>[Tâche pilote 2](https://simpletext-madics.github.io/2021/clef/fr/task2)</button> | <button>[Tâche pilote 3](https://simpletext-madics.github.io/2021/clef/fr/task3)</button>
 
 <br>
 
