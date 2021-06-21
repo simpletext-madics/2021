@@ -47,5 +47,3 @@ For this edition queries are a selection of recent n press titles from The Guard
 <img src="../MDformat.png">
 
 [PILOT TASK 1: SELECTING PASSAGES TO INCLUDE IN A SIMPLIFIED SUMMARY](https://simpletext-madics.github.io/2021/clef/en/task1)  
-[PILOT TASK 2: IDENTIFYING DIFFICULT-TO-UNDERSTAND CONCEPTS FO NON EXPERTS](https://simpletext-madics.github.io/2021/clef/en/task2)  
-[PILOT TASK 3: SCIENTIFIC TEXT SIMPLIFICATION](https://simpletext-madics.github.io/2021/clef/en/task3)  
