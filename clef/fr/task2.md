@@ -33,7 +33,7 @@ Liste des termes à contextualiser dans un fichier TSV tabulé avec les champs s
 Run_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passage_text &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; term &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rank
 
 ### Évaluation
-Le regroupement de termes et de métriques automatiques (NDCG,...) seront utilisés pour évaluer ces résultats.
+Le regroupement de termes et les métriques automatiques (NDCG,...) seront utilisés pour évaluer ces résultats.
 
 Exemple de SORTIE :
 
