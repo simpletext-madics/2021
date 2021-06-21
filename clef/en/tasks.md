@@ -45,7 +45,3 @@ For this edition queries are a selection of recent n press titles from The Guard
 * DBLP abstracts extracted for each topic in the following MD format (doc_id, year, abstract):
 
 <img src="../MDformat.png">
-
-<br>
-
-[PILOT TASK 1: SELECTING PASSAGES TO INCLUDE IN A SIMPLIFIED SUMMARY](https://simpletext-madics.github.io/2021/clef/en/task1)  
