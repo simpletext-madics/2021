@@ -45,8 +45,3 @@ Pour cette édition, les requêtes sont une sélection de titres de presse réce
 * Extraction des résumés DBLP pour chaque sujet dans le format MD suivant (doc_id, year, abstract) :
 
 <img src="../MDformat.png">
-
-<br>
-
-[TÂCHE PILOTE 1 : SÉLECTIONNER LES PASSAGES À INCLURE DANS UN RÉSUMÉ SIMPLIFIÉ](https://simpletext-madics.github.io/2021/clef/fr/task1)  
-
