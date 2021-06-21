@@ -14,4 +14,4 @@ Google group: [https://groups.google.com/g/simpletext](https://groups.google.com
 
 CLEF website: [http://clef2021.clef-initiative.eu/index.php](http://clef2021.clef-initiative.eu/index.php)
  
-Any question? Don’t hesitate to contact us by e-mail: [simpletextworkshop@gmail.com](mailto:simpletextworkshop@gmail.com)
+Any question? Feel free to contact us: [simpletextworkshop@gmail.com](mailto:simpletextworkshop@gmail.com)
