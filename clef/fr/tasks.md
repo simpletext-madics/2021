@@ -48,5 +48,5 @@ Pour cette édition, les requêtes sont une sélection de titres de presse réce
 
 [TÂCHE PILOTE 1 : SÉLECTIONNER LES PASSAGES À INCLURE DANS UN RÉSUMÉ SIMPLIFIÉ](https://simpletext-madics.github.io/2021/clef/fr/task1)  
 [TÂCHE PILOTE 2 : IDENTIFIER LES CONCEPTS DIFFICILE À COMPRENDRE POUR LES NON EXPERTS](https://simpletext-madics.github.io/2021/clef/fr/task2)  
-[TÂCHE PILOTE 3 : SIMPLIFICATION DES TEXTES SCIENTIFIQUES](https://simpletext-madics.github.io/2021/clef/fr/task")  
+[TÂCHE PILOTE 3 : SIMPLIFICATION DES TEXTES SCIENTIFIQUES](https://simpletext-madics.github.io/2021/clef/fr/task3)  
 
