@@ -16,7 +16,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 3 : Simplification des textes scientifiques - Simplification de la langue
+## Tâche pilote 3 : Simplification de textes scientifiques - Simplification de la langue
 
 L'objectif de cette tâche pilote est de fournir une version simplifiée des passages de texte. Les participants recevront des requêtes et des résumés d'articles scientifiques. Les résumés peuvent être divisés en phrases comme dans l'exemple : [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa).
 
@@ -26,8 +26,8 @@ Passages simplifiés dans un fichier TSV tabulé avec les champs suivants :
 * *run_id* : ID du passage commençant par team_id_
 * *manual* : Si l'exécution est manuelle {0,1}
 * *topic_id* : ID du sujet
-* *topic_text* : Texte du sujet
-* *source_passage* : Texte du passage source 
+* *topic_text* : Sujet
+* *source_passage* : Texte du passage source
 * *simplified_passage* : Texte du passage simplifié
 
 run_id &nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp; topic_text &nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp; source_passage &nbsp;&nbsp;&nbsp;&nbsp; simplified_passage
