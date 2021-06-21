@@ -28,7 +28,7 @@ Un maximum de 1000 passages à inclure dans un résumé simplifié dans un fichi
 * *topic_id* : ID du sujet
 * *doc_id* : ID du document source
 * *passage* : Texte du passage sélectionné
-* *rank* : Rang de passage
+* *rank* : Rang du passage
 
 *run_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; manual &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; topic_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; doc_id &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; passage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rank*
 
