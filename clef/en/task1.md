@@ -42,7 +42,3 @@ OUTPUT example:
 | ST1_1 | 1 | 1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects. | 1 |
 | ST1_1 | 1 | 1 | 3003409254 | big data and machine learning (ML) algorithms can result in discriminatory decisions against certain protected groups defined upon personal data like gender, race, sexual orientation etc. | 2 |
 | ST1_1 | 1 | 1 | 3003409254 | Such algorithms designed to discover patterns in big data might not only pick up any encoded societal biases in the training data, but even worse, they might reinforce such biases resulting in more severe discrimination. | 3 |  
-
-<br>
-
-[PILOT TASK 2: IDENTIFYING DIFFICULT-TO-UNDERSTAND CONCEPTS FO NON EXPERTS](https://simpletext-madics.github.io/2021/clef/en/task2)  
