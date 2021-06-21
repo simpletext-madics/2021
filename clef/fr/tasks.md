@@ -24,11 +24,11 @@ Après l'inscription, vous recevrez un courriel contenant les informations néce
 Les participants doivent placer leurs résultats dans le dossier Documents créé pour leur utilisateur.
 
 ### 2021 - Dataset
-Pour cette édition, nous utilisons le Citation Network Dataset : DBLP+Citation, ACM Citation network ([https://www.aminer.org/citation](https://www.aminer.org/citation)). Un index elasticsearch est mis à la disposition des participants et est accessible via une API GUI. Cet index est adapté pour :
+Pour cette édition, nous utilisons le Citation Network Dataset : DBLP+Citation, ACM Citation network ([https://www.aminer.org/citation](https://www.aminer.org/citation)). Un index Elasticsearch est mis à la disposition des participants et est accessible via une API GUI. Cet index est adapté pour :
 *	Appliquer des méthodes de base de recherche de passages basées sur des modèles de RI vectoriels ou linguistiques,
 *	Générer des modèles d'allocation de Dirichlet latente,
 *	Former des Graph Neural Networks pour la recommandation de citations, comme c'est le cas sur [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/) par exemple, 
-*	Appliquer des transformateurs biodirectionnels profonds pour l'expansion des requêtes,
+*	Appliquer des Transformers bidirectionnels profonds pour l'expansion des requêtes,
 *	Et bien plus encore ...
 
 ### 2021 - Requêtes
