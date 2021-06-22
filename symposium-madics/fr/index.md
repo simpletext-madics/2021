@@ -1,5 +1,5 @@
 
-# SimpleText@SYMPOSIUM MADICS
+# SimpleText@SYMPOSIUM MADICS Accueil
 
 [Accueil](./) | [Programme](./program) | [Organisation](./organisation) | [Contacts](./contacts.md) | [<img src="../EN.png" width="30">](../en)
 
