@@ -1,13 +1,13 @@
 
-# SimpleText@SIMPOSIUM MADICS Contacts
+# SimpleText@SYMPOSIUM MADICS Contacts
 
-[Accueil](https://simpletext-madics.github.io/2021/simposium-madics/fr) | [Programme](https://simpletext-madics.github.io/2021/simposium-madics/fr/program) | [Organisation](https://simpletext-madics.github.io/2021/simposium-madics/fr/organisation) | [Contacts](https://simpletext-madics.github.io/2021/simposium-madics/fr/contacts) | [<img src="../EN.png" width="30">](https://simpletext-madics.github.io/2021/simposium-madics/en/contact)
+[Accueil](./fr) | [Programme](../program) | [Organisation](https://simpletext-madics.github.io/2021/symposium-madics/fr/organisation) | [Contacts](https://simpletext-madics.github.io/2021/symposium-madics/fr/contacts) | [<img src="../EN.png" width="30">](https://simpletext-madics.github.io/2021/symposium-madics/en/contact)
 
 ---
 
 ## Contacts
 
-Site internet : [https://simpletext-madics.github.io/2021/simposium-madics/fr/](https://simpletext-madics.github.io/2021/simposium-madics/fr/)
+Site internet : [https://simpletext-madics.github.io/2021/symposium-madics/fr/](https://simpletext-madics.github.io/2021/symposium-madics/fr/)
 
 Page MaDICS SimpleText : [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
 
