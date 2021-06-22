@@ -1,7 +1,7 @@
 
 # SimpleText@INFORSID Comité de programme
 
-[Accueil](./fr) | [Appel à communication](./CFP) | [Programme](./program)  | [Comité de programme](./comite) | [Contacts](./contacts) | [<img src="../EN.png" width="30">](../en/comite)
+[Accueil](./) | [Appel à communication](./CFP) | [Programme](./program)  | [Comité de programme](./comite) | [Contacts](./contacts) | [<img src="../EN.png" width="30">](../en/comite)
 
 ---
 
