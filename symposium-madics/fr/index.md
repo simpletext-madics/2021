@@ -1,7 +1,7 @@
 
 # SimpleText@SIMPOSIUM MADICS
 
-[Accueil](./) | [Programme](./program) | [Organisation](https://simpletext-madics.github.io/2021/simposium-madics/fr/organisation) | [Contacts](https://simpletext-madics.github.io/2021/simposium-madics/fr/contacts) | [<img src="../EN.png" width="30">](https://simpletext-madics.github.io/2021/simposium-madics/en)
+[Accueil](./) | [Programme](./program) | [Organisation](./organisation) | [Contacts](./contacts.md) | [<img src="../EN.png" width="30">](../en)
 
 ---
 
