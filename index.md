@@ -11,7 +11,7 @@ Congrès INFORSID : [https://simpletext-madics.github.io/2021/inforsid/](https:/
 
 Conférence CLEF : [https://simpletext-madics.github.io/2021/clef/](https://simpletext-madics.github.io/2021/clef/fr/)
 
-Symposium MaDICS : [https://simpletext-madics.github.io/2021/simposium-madics/](https://simpletext-madics.github.io/2021/simposium-madics/fr/)
+Symposium MaDICS : [https://simpletext-madics.github.io/2021/symposium-madics/](https://simpletext-madics.github.io/2021/symposium-madics/fr/)
 
 **Responsables**
 * Liana Ermakova, HCTI, Univ. Bretagne Occidentale
