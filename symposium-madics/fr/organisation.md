@@ -1,8 +1,8 @@
 
 
-# SimpleText@SIMPOSIUM MADICS Organisation
+# SimpleText@SYMPOSIUM MADICS Organisation
 
-[Accueil](./) | [Programme](https://simpletext-madics.github.io/2021/simposium-madics/fr/program) | [Organisation](https://simpletext-madics.github.io/2021/simposium-madics/fr/organisation) | [Contacts](https://simpletext-madics.github.io/2021/simposium-madics/fr/contacts) | [<img src="../EN.png" width="30">](https://simpletext-madics.github.io/2021/simposium-madics/en/organisers)
+[Accueil](./) | [Programme](./program) | [Organisation](./organisation) | [Contacts](./contacts.md) | [<img src="../EN.png" width="30">](../en/organisers)
 
 ---
 
