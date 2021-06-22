@@ -1,7 +1,7 @@
 
 # SimpleText@SYMPOSIUM MADICS Contacts
 
-[Accueil](./) | [Programme](./program) | [Organisation](organisation.md) | [Contacts](contacts.md) | [<img src="../EN.png" width="30">](../en/contact)
+[Accueil](./) | [Programme](./program) | [Organisation](./organisation) | [Contacts](./contacts.md) | [<img src="../EN.png" width="30">](../en/contact)
 
 ---
 
