@@ -1,8 +1,8 @@
 
 # SimpleText@CLEF-2021 Tâches pilotes
 
-[Accueil](https://simpletext-madics.github.io/2021/clef/fr) | [Appel à communication](https://simpletext-madics.github.io/2021/clef/fr/CFP) | [Dates importantes](https://simpletext-madics.github.io/2021/clef/fr/dates) | [Tâches pilotes](https://simpletext-madics.github.io/2021/clef/fr/tasks)  
-[Programme](https://simpletext-madics.github.io/2021/clef/fr/program) | [Publications](https://simpletext-madics.github.io/2021/clef/fr/publications) | [Organisation](https://simpletext-madics.github.io/2021/clef/fr/organisation) | [Contacts](https://simpletext-madics.github.io/2021/clef/fr/contacts) | [<img src="../EN.png" width="30">](https://simpletext-madics.github.io/2021/clef/en/tasks)
+[Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches pilotes](./tasks)  
+[Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [<img src="../EN.png" width="30">](../en/tasks)
 
 ---
 
@@ -12,7 +12,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 ---
 
-<button>[Accès](https://simpletext-madics.github.io/2021/clef/fr/tasks)</button> | <button>[Tâche pilote 1](https://simpletext-madics.github.io/2021/clef/fr/task1)</button> | <button>[Tâche pilote 2](https://simpletext-madics.github.io/2021/clef/fr/task2)</button> | <button>[Tâche pilote 3](https://simpletext-madics.github.io/2021/clef/fr/task3)</button>
+<button>[Accès](./tasks)</button> | <button>[Tâche pilote 1](./task1)</button> | <button>[Tâche pilote 2](./task2)</button> | <button>[Tâche pilote 3](./task3)</button>
 
 <br>
 
