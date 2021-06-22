@@ -13,7 +13,7 @@
 
 ### 7 juillet : 9h-12h30
 
-* 9h - 9h30 : Ouverture
+* 9h00 - 9h30 : Ouverture
 * 9h30 - 10h00 : Alice Pennors (Amstratgraph): "Comprendre la notion de "jumeau numérique": tentative de cartographie de la conception 2D/3D/4D"
 * 10h00 - 10h30 : Helen MCCOMBIE (Université de Bretagne Occidentale)
 * 10h30 - 11h00 : Mathieu Rouault (Grand Labo)
