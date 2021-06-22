@@ -5,7 +5,7 @@
 
 ---
 
-<button>[Présentation](./program)</button> | <button>[Programme SimpleText](./programsimple)</button> | <button>[Programme du symposium]./programsympo)</button>
+<button>[Présentation](./program)</button> | <button>[Programme SimpleText](./programsimple)</button> | <button>[Programme du symposium](./programsympo)</button>
 
 ---
 
