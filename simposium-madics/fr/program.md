@@ -5,7 +5,7 @@
 
 ---
 
-[Présentation](https://simpletext-madics.github.io/2021/simposium-madics/fr/program) | [Programme SimpleText](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsimple) | [Programme du symposium](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsympo)
+<button>[Présentation](https://simpletext-madics.github.io/2021/simposium-madics/fr/program)</button> | <button>[Programme SimpleText](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsimple)</button> | <button>[Programme du symposium](https://simpletext-madics.github.io/2021/simposium-madics/fr/programsympo)</button>
 
 ---
 
