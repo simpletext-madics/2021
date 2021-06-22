@@ -11,7 +11,7 @@
 
 ## Programme SimpleText
 
-### 7 juillet : 9h-12h30
+### 7 juillet : 9h00-12h30
 
 * 9h00 - 9h30 : Ouverture
 * 9h30 - 10h00 : Alice Pennors (Amstratgraph): "Comprendre la notion de "jumeau numérique": tentative de cartographie de la conception 2D/3D/4D"
