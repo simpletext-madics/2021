@@ -6,7 +6,7 @@
 ---
 ## Contact
 
-Web site: [https://simpletext-madics.github.io/2021/simposium-madics/en/](https://simpletext-madics.github.io/2021/simposium-madics/en/)
+Web site: [https://simpletext-madics.github.io/2021/symposium-madics/en/](https://simpletext-madics.github.io/2021/symposium-madics/en/)
 
 MaDICS SimpleText page: [https://www.madics.fr/ateliers/simpletext/](https://www.madics.fr/ateliers/simpletext/) 
 
