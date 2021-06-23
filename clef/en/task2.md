@@ -17,9 +17,9 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-## Pilot Task 2: Identifying difficult-to-understand concepts for non experts - Content Simplification
+## Pilot Task 2: Identifying difficult-to-understand concepts for non experts – Content Simplification
 
-The goal of this pilot task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text - for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case).
+The goal of this pilot task is to decide which terms (up to 10) require explanation and contextualization to help a reader to understand a complex scientific text – for example, with regard to a query, terms that need to be contextualized (with a definition, example and/or use-case).
 
 *Output format:*  
 
