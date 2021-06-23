@@ -22,7 +22,7 @@ Les soumissions doivent être rédigées en anglais selon le style *CEURART à u
 3.	Des articles courts de 5-6 pages standard avec des pages supplémentaires pour les références. Les soumissions seront examinées par au moins deux évaluateurs.
 
 Liens :  
-Site de soumission : [https://easychair.org/conferences/?conf=simpletext2021](https://easychair.org/conferences/?conf=simpletext2021)
+Site de soumission : [https://easychair.org/conferences/?conf=simpletext2021](https://easychair.org/conferences/?conf=simpletext2021)  
 Modèle pour la soumission : [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
 
 ## Liste des sujets (non exhaustive)
