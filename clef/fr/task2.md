@@ -16,7 +16,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 2 : Identifier les concepts difficiles à comprendre pour les non experts - Simplification de contenu
+## Tâche pilote 2 : Identifier les concepts difficiles à comprendre pour les non experts – Simplification de contenu
 
 L'objectif de cette tâche pilote est de déterminer quels termes (jusqu'à 10) nécessitent une explication et une contextualisation pour aider un lecteur à comprendre un texte scientifique complexe ; par exemple, en ce qui concerne une requête, les termes qui doivent être contextualisés (avec une définition, un exemple et/ou un cas d'utilisation).
 
