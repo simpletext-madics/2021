@@ -16,7 +16,7 @@ Nous vous invitons à soumettre aussi bien des passages automatiques que manuels
 
 <br>
 
-## Tâche pilote 3 : Simplification de textes scientifiques - Simplification de la langue
+## Tâche pilote 3 : Simplification de textes scientifiques – Simplification de la langue
 
 L'objectif de cette tâche pilote est de fournir une version simplifiée des passages de texte. Les participants recevront des requêtes et des résumés d'articles scientifiques. Les résumés peuvent être divisés en phrases comme dans l'exemple : [https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa](https://guacamole.univ-avignon.fr/nextcloud/index.php/s/SQTdS2Yowf9dxNa).
 
