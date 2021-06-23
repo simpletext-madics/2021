@@ -1,3 +1,2 @@
 theme: jekyll-theme-tactile
-plugins: jekyll-twitter-plugin
-plugins: jekyll-gist
+plugins: ['jekyll-twitter-plugin']
