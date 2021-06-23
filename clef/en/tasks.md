@@ -29,7 +29,7 @@ For this edition we use the Citation Network Dataset: DBLP+Citation, ACM Citatio
 * generate Latent Dirichlet Allocation models,
 * train Graph Neural Networks for citation recommendation as carried out in [https://stellargraph.readthedocs.io/](https://stellargraph.readthedocs.io/) for example,
 * apply deep bi directionnal transformers for query expansion.
-* and much more …
+* and much more…
 
 ### 2021 Queries
 For this edition queries are a selection of recent n press titles from The Guardian enriched with keywords manually extracted from the content of the article. It has been checked that each keyword allows to extract at least 5 relevant abstracts. The use of these keywords is optional.
