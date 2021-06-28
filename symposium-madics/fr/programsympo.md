@@ -30,11 +30,11 @@ Intervenants : *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*
 [*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=LEMON)
 
 ## Mercredi 7 juillet
-9h00 - 12h30 : **[Action MADONA](https://www.madics.fr/actions/madona/)**   
-[*Inscrivez-vous ici*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MADONA)
+9h00 - 12h30 :  
+* **[Action MADONA](https://www.madics.fr/actions/madona/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MADONA)
+* **[Atelier SimpleText](https://www.madics.fr/ateliers/simpletext/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
 
 13h30 - 17h00 :
-* **[Atelier SimpleText](https://www.madics.fr/ateliers/simpletext/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
 * **[Action BigData4Astro](https://www.madics.fr/actions/bigdata4astro/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=BigData4Astro)
 * **[Action RoCED – Session 2](https://www.madics.fr/ateliers/RoCED/)** [(*Inscrivez-vous ici*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
 
