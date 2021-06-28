@@ -29,11 +29,12 @@ Speakers: *Elena Cabrio, Serena Villata, Mario Laurent, Julien Coche*
 [*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=LEMON)
 
 ## Wednesday, July 7th
-9:00 - 12:30: **[MADONA Action](https://www.madics.fr/actions/madona/)**   
-[*Register here*](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MADONA)
+9:00 - 12:30:  
+* **[MADONA Action](https://www.madics.fr/actions/madona/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=MADONA)
+* **[SimpleText Workshop](https://www.madics.fr/ateliers/simpletext/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
 
 13:30 - 17:00:
-* **[SimpleText Workshop](https://www.madics.fr/ateliers/simpletext/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=SimpleText)
+
 * **[BigData4Astro Action](https://www.madics.fr/actions/bigdata4astro/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=BigData4Astro)
 * **[RoCED Action - Session 2](https://www.madics.fr/ateliers/RoCED/)** [(*Register here*)](https://www.madics.fr/manifestations/organisation/inscription/?manif=1617704707.3351&group=RoCED%202)
 
