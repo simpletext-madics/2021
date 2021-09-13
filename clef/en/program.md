@@ -6,10 +6,14 @@
 [Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [<img src="../FR.png" width="30">](../fr/program)
 
 
-## Bucharest time zone (GMT+3)
+------------------------------------------------------------
 
+
+[Registration form](https://forms.gle/bfcPqhaNDhnA1NiU8)
 ------------------------------------------------------------
 [CLEF schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/programme.html)
+
+## Bucharest time zone (GMT+3)
 
 ------------------------------------------------------------
 
