@@ -4,11 +4,14 @@
 [Accueil](./) | [Appel à communication](./CFP) | [Dates importantes](./dates) | [Tâches pilotes](./tasks)  
 [Programme](./program) | [Publications](./publications) | [Organisation](./organisation) | [Contacts](./contacts) | [<img src="../EN.png" width="30">](../en/program)
 
+------------------------------------------------------------
 
-## Bucharest time zone (GMT+3)
 
+[Registration form](https://forms.gle/bfcPqhaNDhnA1NiU8)
 ------------------------------------------------------------
 [CLEF schedule](http://clef2021.clef-initiative.eu/index.php?page=Pages/programme.html)
+
+## Bucharest time zone (GMT+3)
 
 ------------------------------------------------------------
 
