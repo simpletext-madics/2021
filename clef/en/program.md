@@ -41,6 +41,6 @@
 
 18:00 - 18:20: 	Irina Ovchinnikova, Diana Nurbakova and Liana Ermakova “What Science-Related Topics Need to Be Popularized? A Comparative Study”
 
-18:20 - 19:00: Invited talk: John Rochford “EasyCovid project”
+18:20 - 19:00: Invited talk: John Rochford “Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide”
 
 ---
