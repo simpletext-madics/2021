@@ -10,7 +10,7 @@
 
 <img align="left" src="https://github.com/simpletext-madics/2021/blob/main/clef/simpletext-logo-blue.png?raw=true" width="100"/>
 
-**Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Diana Nurbakova, Irina Ovchinnikova, Eric Sanjuan.** *Text Simplification for Scientific Information Access: CLEF 2021 SimpleText Workshop*. 43rd edition of the annual BCS-IRSG European Conference on Information Retrieval : Advances in Information Retrieval (ECIR 2021), Mar 2021, Lucca (virtual), Italy. [[PDF]](https://hal.archives-ouvertes.fr/hal-03121986/document) [[bibtex]](../../2.bib)
+**Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, Diana Nurbakova, Irina Ovchinnikova, Eric Sanjuan.** *Text Simplification for Scientific Information Access: CLEF 2021 SimpleText Workshop*. 43rd edition of the annual BCS-IRSG European Conference on Information Retrieval : Advances in Information Retrieval (ECIR 2021), Mar 2021, Lucca (virtual), Italy. [[PDF]](https://hal.archives-ouvertes.fr/hal-03121986/document) [[bibtex]](../../../publications/2.bib)
 
 **Liana Ermakova, Patrice Bellot, Pavel Braslavski, Jaap Kamps, Josiane Mothe, et al..** *Overview of SimpleText CLEF 2021 Workshop and Pilot Tasks*. 12th Conference and Labs of the Evaluation Forum (CLEF 2021), Sep 2021, Bucharest (on line), Romania. pp.2212 - 2227. [[PDF]](https://hal.archives-ouvertes.fr/hal-03328174/document) [[bibtex]](../../1.bib)
 
