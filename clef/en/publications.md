@@ -36,3 +36,5 @@
 **Helen Mccombie.** *Could automatic text simplification assist correction-revision of scientific texts written by non-native English speakers?* (Bureau de Traduction de l'Université, Université de Brest, France) [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=86) [[bibtex]](../../../../2021/inforsid/bibtex/Simpletext-McCombie.bib)
 
 **John Rochford.** *Developing Simple Web Text for People with Intellectual Disabilities and to Train Artificial Intelligence.* (Eunice Kennedy Shriver Center, University of Massachusetts Medical School, USA) - invited speaker [[PDF]](http://inforsid.fr/actes/2021/ActesAteliers_INFORSID2021.pdf#page=94) [[bibtex]](../../../../2021/inforsid/bibtex/Simpletext-Rochford.bib)
+
+z
