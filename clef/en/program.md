@@ -22,7 +22,7 @@
 10:00-11:30	Lab overviews: BioASQ, ARQMath-2, SimpleText, PAN	
 
 -------------------------------------------------------------
-15:30 - 15:50: 	Sílvia Araújo and Radia Hannachi “Multimodal science communication: from documentary research to infographic via mind mapping”
+15:30 - 15:50: 	Sílvia Araújo and Radia Hannachi “Multimodal science communication: from documentary research to infographic via mind mapping” [[presentation]](https://view.genial.ly/613c6d596b4eb60d595afbc4)
 
 15:50 - 16:30: Invited talk: Natalia Grabar and Rémi Cardon “Various factors of the evaluation of text simplification” [[presentation]](../Grabar_CLEF.pdf)
 
@@ -31,7 +31,7 @@
 -------------------------------------------------------------
 17:30-18:10: Invited talk: Wei Xu “Importance of Data and Controllability in Neural Text Simplification” [[presentation]](../Xu_CLEF.pdf)
 
-18:10 - 18:30: 	Malek Hajjem and Eric Sanjuan “Societal trendy multi word term extraction from DBLP”
+18:10 - 18:30: 	Malek Hajjem and Eric Sanjuan “Societal trendy multi word term extraction from DBLP” [[presentation]](https://guacamole.univ-avignon.fr/pubiutdev/sanjuan/simpletext/LDAsimpletext.html)
 
 18:30 - 19:00: Interactive session: How to select the information to be included in a simplified summary? Which terms should be explained?
 
