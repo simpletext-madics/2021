@@ -22,12 +22,12 @@
 -------------------------------------------------------------
 15:30 - 15:50: 	Sílvia Araújo and Radia Hannachi “Multimodal science communication: from documentary research to infographic via mind mapping”
 
-15:50 - 16:30: Invited talk: Natalia Grabar and Rémi Cardon “Various factors of the evaluation of text simplification”
+15:50 - 16:30: Invited talk: Natalia Grabar and Rémi Cardon “Various factors of the evaluation of text simplification” [[presentation]](../Grabar_CLEF.pdf)
 
 16:30-17:00: Interactive session: Evaluation of text and terminology difficulty
 
 -------------------------------------------------------------
-17:30-18:10: Invited talk: Wei Xu “Importance of Data and Controllability in Neural Text Simplification”
+17:30-18:10: Invited talk: Wei Xu “Importance of Data and Controllability in Neural Text Simplification” [[presentation]](../Xu_CLEF.pdf)
 
 18:10 - 18:30: 	Malek Hajjem and Eric Sanjuan “Societal trendy multi word term extraction from DBLP”
 
@@ -35,11 +35,11 @@
 
 ### 23 September		
 	
-17:30-18:00: Industrial talk: Mike Unwalla “TechScribe”
+17:30-18:00: Industrial talk: Mike Unwalla “TechScribe” [[presentation]](../Unwalla_CLEF.pdf)
 
-18:00 - 18:20: 	Irina Ovchinnikova, Diana Nurbakova and Liana Ermakova “What Science-Related Topics Need to Be Popularized? A Comparative Study”
+18:00 - 18:20: 	Irina Ovchinnikova, Diana Nurbakova and Liana Ermakova “What Science-Related Topics Need to Be Popularized? A Comparative Study” [[presentation]](../Ovchinnikova_CLEF.pdf)
 
-18:20 - 19:00: Invited talk: John Rochford “Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide”
+18:20 - 19:00: Invited talk: John Rochford “Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide” [[presentation]](../Rochford_CLEF.pdf)
 
 ---
 
